@@ -1,0 +1,342 @@
+{
+ "name": "Zlatko K. Minev",
+ "short_name": "Zlatko Minev",
+ "role": "Lead, Quantum Application Enabling Technologies",
+ "affiliation": "Google Quantum AI",
+ "tagline": "I work where quantum hardware meets noise: designing superconducting circuits and combining error mitigation and correction for quantum applications.",
+ "now": [
+  {
+   "label": "Error correction meets error mitigation",
+   "text": "Using only the syndrome record an error-corrected circuit already keeps, we remove the bias of residual logical errors in post-processing, without separate noise-characterization runs or changes to the circuit, at the cost of extra sampling.",
+   "paper": "2610.12400"
+  },
+  {
+   "label": "Error mitigation from information dynamics",
+   "text": "A circuit's reactivity, a compact summary of how information spreads through it, governs how it responds to noise and which mitigation methods suit it.",
+   "paper": "2609.31934"
+  },
+  {
+   "label": "Electromagnetics of large processors",
+   "text": "Large processors couple to the electromagnetic modes of their package. Four numerical methods for computing these couplings, energy participation among them, agree to within 5% on a simulated 10 × 10 transmon array.",
+   "paper": "2609.22442"
+  }
+ ],
+ "education": [
+  {
+   "degree": "Ph.D., Applied Physics",
+   "school": "Yale University",
+   "detail": "dissertation To Catch and Reverse a Quantum Jump Mid-Flight, with distinction and outstanding contribution to scholarship; Devoret Quantum Lab, advised by Michel Devoret, Rob Schoelkopf and Steven Girvin",
+   "year": 2018
+  },
+  {
+   "degree": "M.Phil. and M.S., Applied Physics",
+   "school": "Yale University",
+   "detail": "2015 and 2014",
+   "year": null
+  },
+  {
+   "degree": "B.A., Physics",
+   "school": "University of California, Berkeley",
+   "detail": "with high honors and distinction in scholarship; research in Irfan Siddiqi's Quantum Nano-Electronics Lab (2008–2011)",
+   "year": 2011
+  }
+ ],
+ "past_roles": [
+  {
+   "org": "IBM Quantum",
+   "text": "Founded and led the Qiskit Leap research team (quantum computational science at scale) and the quantum hardware design team that created Qiskit Metal; founded and hosted the IBM Qiskit Quantum Seminar.",
+   "years": "2018–2025"
+  }
+ ],
+ "service": [
+  "Founder of Open Labs (2012), a multi-university science-outreach and career-pathways organization: executive director 2012–2017, chair 2017–2020.",
+  "Initiator and co-founder of the <a href=\"https://qdc-qcsa.org/\">Quantum Device Consortium (QDC)</a>, an open community that maintains open-source tools for quantum device design and simulation, such as Quantum Metal; co-founder and organizer of its Quantum Device Workshop (QDW).",
+  "Yale Graduate School Alumni Association: executive board (2020–2023), trustee advisor to the board (2019–2020). Yale Alumni Association: Board of Governors (2023–2025).",
+  "Associate Fellow, CIFAR Quantum Information Science program (2023–March 2026).",
+  "American Physical Society, Division of Quantum Information: March Meeting planning team (2023), session committee (2022), session chair (2020, 2022).",
+  "Program committees: Quantum Computing Theory in Practice (2022), Quantum Simulation (2024), Quantum Matter (2024), IQC–CIFAR QuDits workshop (2024), Rochester Conference on Coherence and Quantum Science (2025).",
+  "Workshop organizer, IEEE Quantum Week (2020, 2021, 2022)."
+ ],
+ "open_source": [
+  {
+   "name": "Quantum Metal (formerly Qiskit Metal)",
+   "url": "https://github.com/qiskit-community/qiskit-metal",
+   "image": "assets/img/metal/metal-chip-source.webp",
+   "analysis_image": "assets/img/metal/metal-analysis-source.webp",
+   "docs_url": "https://qiskit-community.github.io/qiskit-metal/",
+   "role": "Founder",
+   "text": "Open-source design for superconducting chips, from layout to simulation to quantization. I started it at IBM; the community Quantum Device Consortium now stewards it.",
+   "stats": {
+    "GitHub stars": 431,
+    "forks": 269
+   }
+  },
+  {
+   "name": "pyEPR",
+   "url": "https://github.com/zlatko-minev/pyEPR",
+   "image": "assets/img/research/epr-original.webp",
+   "image_crop": [1082, 124, 738, 527],
+   "docs_url": "https://pyepr-docs.readthedocs.io/en/latest/",
+   "role": "Creator and maintainer",
+   "text": "One eigenmode simulation in, the chip's quantum Hamiltonian and losses out. Written during my Ph.D.",
+   "stats": {
+    "GitHub stars": 211,
+    "forks": 279
+   }
+  },
+  {
+   "name": "paperplot",
+   "url": "https://github.com/zlatko-minev/paperplot",
+   "image": "assets/img/research/paperplot-aps.webp",
+   "role": "Creator",
+   "text": "Publication-ready matplotlib figures, sized and styled for each journal, because life is too short to fix tick labels by hand.",
+   "research_only": true
+  }
+ ],
+ "links": {
+  "scholar": "https://scholar.google.com/citations?user=NaxMJzQAAAAJ",
+  "arxiv": "https://arxiv.org/a/minev_z_1.html",
+  "github": "https://github.com/zlatko-minev",
+  "linkedin": "https://www.linkedin.com/in/zlatko-minev/",
+  "x": "https://x.com/zlatko_minev",
+  "bluesky": "https://bsky.app/profile/zlatko-minev.bsky.social",
+  "threads": "https://www.threads.net/@zlatko_minev",
+  "orcid": "https://orcid.org/0000-0003-3759-1847",
+  "openlabs": "https://theopenlabs.sites.yale.edu/"
+ },
+ "email": "zlatko.minev@aya.yale.edu",
+ "portrait": "assets/img/headshot.webp",
+ "notebook_url": "/notebook/",
+ "notebook_url_future": "/notebook/",
+ "open_source_asof": "2026-10-25",
+ "intro_25": "Zlatko Minev is a quantum physicist at Google Quantum AI, working on quantum error mitigation, error correction and superconducting hardware.",
+ "og_image": "assets/img/og-portrait-warm.jpg",
+ "og_image_alt": "Zlatko K. Minev, quantum physicist at Google Quantum AI, alongside his portrait.",
+ "now_updated": "2026-10",
+ "numbers": [
+  {
+   "label": "Qiskit Seminar episodes",
+   "value": "170+",
+   "as_of": "2025"
+  },
+  {
+   "label": "Qiskit Seminar views",
+   "value": "2M+",
+   "as_of": "2025"
+  },
+  {
+   "label": "Slides and notes in the Notebook",
+   "value": "@catalog",
+   "as_of": "2026-10-25"
+  }
+ ],
+ "role_since": 2025,
+ "openlabs_instagram": "https://www.instagram.com/theopenlabs/",
+ "highlights": [
+  {
+   "id": "jumps",
+   "title": "Top discovery of the year: catching and reversing a quantum jump mid-flight",
+   "years": "Yale, 2011–2018 · Nature, 2019",
+   "image": "assets/img/discover-2020.webp",
+   "paper": "1803.00545",
+   "text": "For my Ph.D. with <a href=\"https://www.nobelprize.org/prizes/physics/2025/devoret/facts/\">Michel Devoret</a> at Yale, we showed that a quantum jump, random in when it starts, follows a continuous and predictable path once under way, so it can be caught and reversed mid-flight. The experiment was once considered out of reach of experimental atomic physics.",
+   "links": [
+    [
+     "The paper",
+     "@paper"
+    ]
+   ],
+   "image_link": "https://www.discovermagazine.com/the-sciences/scientists-catch-a-quantum-jump-as-it-happens",
+   "bullets": [
+    "<i>Discover</i> selected it as the top Math/Physical Sciences discovery in its special issue <a href=\"https://www.discovermagazine.com/the-sciences/scientists-catch-a-quantum-jump-as-it-happens\">Top 50 Scientific Discoveries of the Year</a>.",
+    "Published in <i>Nature</i> as <a href=\"https://www.nature.com/articles/s41586-019-1287-z\">To catch and reverse a quantum jump mid-flight</a> (2019), based on my <a href=\"https://arxiv.org/abs/1902.10355\">dissertation</a>. It is one of two of my papers in <i>Nature</i>&rsquo;s <a href=\"https://www.nature.com/collections/fhdggghifa\">2025 Nobel Prize in Physics collection</a>.",
+    "Featured across the media worldwide, including <a href=\"https://www.quantamagazine.org/quantum-leaps-long-assumed-to-be-instantaneous-take-time-20190605/\">Quanta</a>, <i>The Guardian</i>, <i>Le Monde</i> and <i>Wired</i>, with live interviews on NPR.",
+    "<a href=\"https://news.yale.edu/2019/12/19/top-yalenews-stories-2019\">Yale News story of the year</a>."
+   ],
+   "aside": "In good company: Discover's cover that year promised DNA tests, CBD and Mars.",
+   "alt": "Cover of Discover magazine's special issue The Science that Matters"
+  },
+  {
+   "id": "qem",
+   "title": "Learning a quantum processor's noise, and canceling it",
+   "years": "",
+   "image": "assets/img/mit-tr35.webp",
+   "paper": "2201.09866",
+   "text": "How much trustworthy science can a noisy quantum computer deliver before error correction? I started on that question when I founded the Qiskit Leap research team at IBM Quantum, and I'm still at it at Google Quantum AI. With Ewout van den Berg, Kristan Temme and colleagues, we built error-mitigation methods whose noise learning scales to large processors.",
+   "links": [
+    [
+     "PEC paper",
+     "@paper"
+    ],
+    [
+     "ML-QEM paper",
+     "@2309.17368"
+    ]
+   ],
+   "image_link": "https://www.technologyreview.com/innovator/zlatko-minev/",
+   "bullets": [
+    "<b>Sparse Pauli&ndash;Lindblad noise models</b> (<a href=\"@2201.09866\"><i>Nature Physics</i>, 2023</a>): learn the correlated noise of a whole processor efficiently, then cancel it with probabilistic error cancellation. Used to amplify the noise instead, the same learned model became the basis of the error mitigation in IBM&rsquo;s 127-qubit &ldquo;utility&rdquo; experiment (<i>Nature</i>, 2023).",
+    "<b>Model-free readout-error mitigation</b> (TREX, <a href=\"@2012.09738\"><i>Phys. Rev. A</i>, 2022</a>). Together with probabilistic error cancellation, it became a built-in option in Qiskit Runtime.",
+    "<b>Machine learning for error mitigation</b> (<a href=\"@2309.17368\"><i>Nature Machine Intelligence</i>, 2024</a>): learned models matched zero-noise extrapolation in accuracy at a fraction of the runtime cost, in experiments on up to 100 qubits.",
+    "<b>Now, at Google Quantum AI:</b> error mitigation for error-corrected circuits (<a href=\"@2610.12400\">virtual error cancellation</a>), from a circuit's <a href=\"@2609.31934\">information dynamics</a>, and in the <a href=\"@2510.19550\">NMR OTOC experiment</a>."
+   ],
+   "alt": "MIT Technology Review’s 2020 Innovators Under 35 feature on Zlatko Minev"
+  },
+  {
+   "id": "design",
+   "title": "Designing quantum chips: EPR, LOM and Qiskit Metal",
+   "years": "2013 onward",
+   "image": "assets/img/forbes-metal.webp",
+   "paper": "2010.00620",
+   "text": "Designing a superconducting quantum chip means turning a drawing into a Hamiltonian. I set out to make that path open, fast and reproducible, and the tools are below.",
+   "links": [
+    [
+     "EPR paper",
+     "@paper"
+    ],
+    [
+     "MIT Technology Review",
+     "https://www.technologyreview.com/innovator/zlatko-minev/"
+    ]
+   ],
+   "image_link": "https://www.forbes.com/sites/moorinsights/2021/04/26/you-dont-have-to-be-a-rocket-or-quantum-scientist-to-design-a-quantum-computer-chip-using-ibms-new-tool-called-qiskit-metal/",
+   "bullets": [
+    "<b>The first multilayer (2.5D) architecture</b> for superconducting circuits (<a href=\"@1509.01619\"><i>Phys. Rev. Applied</i>, 2016</a>): the integration of a planar layout with the coherence of three-dimensional cavities.",
+    "<b>Energy-participation quantization</b> (<a href=\"@2010.00620\"><i>npj Quantum Information</i>, 2021</a>): one electromagnetic simulation gives the quantum Hamiltonian of the whole chip. I shared it as the open-source package <a href=\"https://github.com/zlatko-minev/pyEPR\">pyEPR</a>.",
+    "<b>Lumped-oscillator models</b> (<a href=\"@2103.10344\">cQED with modular quasi-lumped models</a>): a chip split into small, simulated pieces, then reassembled into one quantum circuit.",
+    "<b>Qiskit Metal</b> (now Quantum Metal): I founded and led the IBM team that built the world&rsquo;s first full-stack, open-source EDA software for quantum hardware (<a href=\"https://www.forbes.com/sites/moorinsights/2021/04/26/you-dont-have-to-be-a-rocket-or-quantum-scientist-to-design-a-quantum-computer-chip-using-ibms-new-tool-called-qiskit-metal/\">Forbes coverage</a>). Groups around the world have used it to design and fabricate their own devices (<a href=\"#tools\">a few are shown below</a>).",
+    "In 2020, MIT Technology Review named me one of its global Innovators Under 35, and I received the John Atanasoff Award from the President of Bulgaria."
+   ],
+   "alt": "Forbes article on Qiskit Metal, with the Metal design window"
+  },
+  {
+   "id": "teaching",
+   "title": "Teaching, outreach, and a medal",
+   "years": "2012 onward",
+   "image": "assets/archive/9d80cc3c-jaf-logo-v1-r2-rgb.webp",
+   "text": "I lecture at summer schools on qubits, noise and error mitigation, and I founded and hosted the IBM Qiskit Quantum Seminar (170+ episodes and 2M+ views). Back in 2012 I started Open Labs, where graduate students open pathways into science for underrepresented young scholars; it grew from Yale to Penn, Princeton, Columbia and Harvard and has reached more than 20,000 students and parents. Open Labs still runs at Yale, almost a decade and a half later. For that work I received the Yale-Jefferson Public Service Award in 2016.",
+   "links": [
+    [
+     "Lectures",
+     "@NB"
+    ],
+    [
+     "Open Labs at Yale",
+     "https://theopenlabs.sites.yale.edu/"
+    ],
+    [
+     "@theopenlabs",
+     "https://www.instagram.com/theopenlabs/"
+    ]
+   ],
+   "image_link": "https://theopenlabs.sites.yale.edu/",
+   "alt": "Jefferson Awards Foundation logo"
+  }
+ ],
+ "greeting": "Hi, I'm",
+ "intro": "I'm a physicist who loves superconducting circuits, the tiny chips that behave like artificial atoms, and the puzzle of getting trustworthy answers out of quantum computers while they are still noisy. I learned the craft in <a href=\"https://qnl.berkeley.edu/\">Irfan Siddiqi's lab</a> at Berkeley and <a href=\"https://qulab.eng.yale.edu/\">Michel Devoret's lab</a> at Yale, and I've been lucky to work with wonderful colleagues and students ever since. I love teaching what we learn.",
+ "wgmr": {
+  "src": "assets/img/research/wgmr-wafer.webp",
+  "paper": "1308.1743",
+  "caption": "Planar whispering-gallery-mode resonators on a wafer, from my early days in the cleanroom at Yale (Appl. Phys. Lett., 2013)."
+ },
+ "metal_devices": [
+  [
+   "dev-qdw01-slide17-nqcp-adamite-sem-overview",
+   "12-qubit tunable chip (“Adamite”), SEM",
+   "C. W. Warren, Niels Bohr Institute / NQCP"
+  ],
+  [
+   "dev-qdw01-slide19-nqcp-adamite-sem-tilted",
+   "Adamite chip, tilted SEM",
+   "C. W. Warren, Niels Bohr Institute / NQCP"
+  ],
+  [
+   "dev-qdw01-slide15-nqcp-community-designs-weight4",
+   "Weight-4 tunable-transmon devices",
+   "B. Joecker, T. C. Thann, Niels Bohr Institute / NQCP"
+  ],
+  [
+   "dev-qdw01-slide16-nqcp-standard-candle-devices",
+   "Standard-candle devices for fabrication reproducibility",
+   "T. C. Thann, Niels Bohr Institute / NQCP"
+  ],
+  [
+   "dev-qdw01-slide20-lfl-layout-a",
+   "Community chip layout",
+   "E. Levenson-Falk, S. A. Shanto"
+  ],
+  [
+   "dev-qdw01-slide20-lfl-layout-b",
+   "Chip with a perforated ground plane",
+   "E. Levenson-Falk, S. A. Shanto"
+  ],
+  [
+   "dev-qdw01-slide22-tudelft-fluxonium-teaser",
+   "Fluxonium chip",
+   "C. K. Andersen, TU Delft"
+  ],
+  [
+   "dev-qdw01-slide21-tudelft-resonator-design-figure",
+   "Resonator chip",
+   "Andersen Lab, QuTech / TU Delft"
+  ]
+ ],
+ "teaching_tracks": [
+  {
+   "title": "Superconducting qubits, from scratch",
+   "text": "From an LC circuit to a transmon, cQED and readout.",
+   "course": "superconducting-qubits-101"
+  },
+  {
+   "title": "Quantum noise and error mitigation",
+   "text": "What noise does, and how to learn and cancel it.",
+   "course": "quantum-error-mitigation"
+  },
+  {
+   "title": "Designing quantum hardware",
+   "text": "Energy participation, Quantum Metal and chip design.",
+   "course": "quantum-hardware-design"
+  }
+ ],
+ "hero_line": "Google Quantum AI; Former: IBM Quantum, Yale, Berkeley, CIFAR",
+ "about_lines": [
+  [
+   "Quantum computational science.",
+   "At Google Quantum AI I lead Quantum Application Enabling Technologies. Before that, I founded and led IBM&rsquo;s Qiskit Leap team, focused on demonstrating the best science achievable with quantum computing, in experiments at pioneering scales with researchers across the field.",
+   "assets/img/research/nmr-otoc-card.webp",
+   "@2510.19550"
+  ],
+  [
+   "Quantum hardware.",
+   "I founded and led IBM&rsquo;s quantum processor design and software team that created the world&rsquo;s first and leading full-stack EDA software for quantum hardware &mdash; <a href=\"#tools\">Qiskit Metal</a> (<a href=\"https://www.forbes.com/sites/moorinsights/2021/04/26/you-dont-have-to-be-a-rocket-or-quantum-scientist-to-design-a-quantum-computer-chip-using-ibms-new-tool-called-qiskit-metal/\">Forbes coverage here</a>).",
+   "assets/img/metal/metal-gui.webp",
+   "#tools"
+  ],
+  [
+   "Basic and applied research.",
+   "I study the fundamental nature of quantum predictability and randomness, quantum error mitigation and correction, and the electromagnetic and Hamiltonian design of superconducting quantum circuits. Results include catching and reversing a quantum jump mid-flight (<a href=\"@1803.00545\"><i>Nature</i>, 2019</a>), probabilistic error cancellation with sparse Pauli&ndash;Lindblad models (<a href=\"@2201.09866\"><i>Nature Physics</i>, 2023</a>) and, at Google Quantum AI, constructive interference at the edge of quantum ergodicity (<a href=\"@2506.10191\"><i>Nature</i>, 2025</a>).",
+   "assets/img/research/jumps-mario.webp",
+   "@1803.00545"
+  ],
+  [
+   "Science outreach and leadership.",
+   "I founded and led a multi-university science-outreach organization, <a href=\"https://theopenlabs.sites.yale.edu/\">Open Labs</a>, to inspire underrepresented students to pursue careers in the sciences. For its impact at Yale and across the Northeast, I received the Yale-Jefferson Public Service Award. I also founded and hosted the IBM Qiskit Quantum Seminar (170+ episodes and 2M+ views).",
+   "assets/img/open-labs.webp",
+   "https://theopenlabs.sites.yale.edu/"
+  ],
+  [
+   "Academic background.",
+   "Ph.D. in Applied Physics from Yale, in Michel Devoret&rsquo;s lab, where I spent many happy hours in the cleanroom; B.A. in Physics from UC Berkeley, in Irfan Siddiqi&rsquo;s lab.",
+   "assets/img/research/wgmr-wafer.webp",
+   "@1308.1743"
+  ]
+ ],
+ "intro_people": "I care a lot about who gets to do science. In 2012 I started <a href=\"https://theopenlabs.sites.yale.edu/\">Open Labs</a>, where graduate students open doors into science for young people from underrepresented communities. It grew from Yale to Penn, Princeton, Columbia and Harvard and has reached more than 20,000 students and parents. I've also served Yale's alumni community, on the Graduate School Alumni Association's executive board and the Yale Alumni Association's Board of Governors. And I keep volunteering for the physics community. I initiated and co-founded the Quantum Device Consortium, an open community that keeps quantum-device design tools free and maintained, and its Quantum Device Workshop. I also help plan the American Physical Society's March Meeting for its Division of Quantum Information, chair sessions, serve on conference program committees, and have organized workshops at IEEE Quantum Week.",
+ "open_labs_photo": {
+  "src": "assets/img/open-labs-day.webp",
+  "alt": "A crowded, sunlit Open Labs day at Yale: students, parents and graduate students talking around tables",
+  "caption": "Step into the shoes of a scientist: an Open Labs day at Yale."
+ },
+ "motto": "Find the way, go the way, show the way."
+}

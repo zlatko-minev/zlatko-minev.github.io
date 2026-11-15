@@ -1,0 +1,499 @@
+[
+ {
+  "title": "Zlatko Minev: Uncovering Local Integrability in Quantum Many-Body Dynamics: A Detailed Portrait",
+  "date": "2023-10-31",
+  "old_url": "/talks-and-interviews-gallery/qsim2023",
+  "categories": [
+   "research-talk"
+  ],
+  "tags": [
+   "research-talk",
+   "quantum-computing"
+  ],
+  "youtube": "1ufiNSEGVGg",
+  "image": "https://images.squarespace-cdn.com/content/v1/5a8a39baccc5c51cc17b77fa/1698764247240-Z4PO4WCE32ACBVCA93Z2/image-asset.jpeg",
+  "excerpt": "",
+  "body_text": "My invited talk on 'Uncovering Local Integrability in Quantum Many-Body Dynamics' at the 2023 Quantum Simulation Conference. Grateful for insightful discussions & the support of the NSF Quantum Leap Challenge Institute. #QuantumLeap #QuantumSimulation",
+  "body_html": "<p class=\"\" style=\"white-space:pre-wrap;\">My invited talk on 'Uncovering Local Integrability in Quantum Many-Body Dynamics' at the 2023 Quantum Simulation Conference. Grateful for insightful discussions &amp; the support of the NSF Quantum Leap Challenge Institute. #QuantumLeap #QuantumSimulation</p>"
+ },
+ {
+  "title": "Quantum Error Mitigation I at the the Boulder School for Condensed Matter and Materials Physics",
+  "date": "2023-10-31",
+  "old_url": "/talks-and-interviews-gallery/quantum-error-mitigation-i-at-boulder-summer-school",
+  "categories": [
+   "education"
+  ],
+  "tags": [
+   "education"
+  ],
+  "youtube": "A7glm-9_afg",
+  "image": "https://images.squarespace-cdn.com/content/v1/5a8a39baccc5c51cc17b77fa/1698764385382-85VCT1HIE209QBJGATVE/image-asset.jpeg",
+  "excerpt": "",
+  "body_text": "Happy to share my first lecture on \"Quantum Error Mitigation for Non-Equilibrium Quantum Dynamics on Quantum Computers\" at the Boulder School for Condensed Matter and Materials Physics.",
+  "body_html": "<p class=\"\" style=\"white-space:pre-wrap;\">Happy to share my first lecture on \"Quantum Error Mitigation for Non-Equilibrium Quantum Dynamics on Quantum Computers\" at the Boulder School for Condensed Matter and Materials Physics.</p>"
+ },
+ {
+  "title": "Quantum error mitigation II at the Boulder School for Condensed Matter and Materials Physics.",
+  "date": "2023-10-31",
+  "old_url": "/talks-and-interviews-gallery/quantum-error-mitigation-ii-at-the-boulder-school-for-condensed-matter-and-materials-physics",
+  "categories": [
+   "education"
+  ],
+  "tags": [
+   "education"
+  ],
+  "youtube": "TPxJW-NoPGE",
+  "image": "https://images.squarespace-cdn.com/content/v1/5a8a39baccc5c51cc17b77fa/1698764515294-1E7VVPY5B4DKE1EH38JP/image-asset.jpeg",
+  "excerpt": "",
+  "body_text": "Happy to share my second lecture on \"Quantum Error Mitigation for Non-Equilibrium Quantum Dynamics on Quantum Computers\" at the Boulder School for Condensed Matter and Materials Physics.",
+  "body_html": "<p class=\"\" style=\"white-space:pre-wrap;\">Happy to share my second lecture on \"Quantum Error Mitigation for Non-Equilibrium Quantum Dynamics on Quantum Computers\" at the Boulder School for Condensed Matter and Materials Physics.</p>"
+ },
+ {
+  "title": "Quantum error-mitigation III at the Boulder School for Condensed Matter and Materials Physics",
+  "date": "2023-10-31",
+  "old_url": "/talks-and-interviews-gallery/quantum-errormitigation-iii-at-the-boulder-school-for-condensed-matter-and-materials-physics",
+  "categories": [
+   "education"
+  ],
+  "tags": [
+   "education"
+  ],
+  "youtube": "xL89AZc2BRc",
+  "image": "https://images.squarespace-cdn.com/content/v1/5a8a39baccc5c51cc17b77fa/1698764592661-JNX790DP7QLMB3W9SLI9/image-asset.jpeg",
+  "excerpt": "",
+  "body_text": "My third lecture on \"Quantum Error Mitigation for Non-Equilibrium Quantum Dynamics on Quantum Computers\" at the Boulder School for Condensed Matter and Materials Physics.",
+  "body_html": "<p class=\"\" style=\"white-space:pre-wrap;\">My third lecture on \"Quantum Error Mitigation for Non-Equilibrium Quantum Dynamics on Quantum Computers\" at the Boulder School for Condensed Matter and Materials Physics.</p>"
+ },
+ {
+  "title": "KITP: To learn and cancel quantum noise",
+  "date": "2023-01-15",
+  "old_url": "/talks-and-interviews-gallery/kitp-to-learn-and-cancel-quantum-noise-probabilistic-error-cancellation-with-sparse-paulilindblad-models-on-noisy-quantum-processors",
+  "categories": [],
+  "tags": [
+   "research",
+   "research-talk"
+  ],
+  "youtube": "zxxlAbGfVtg",
+  "image": "https://images.squarespace-cdn.com/content/v1/5a8a39baccc5c51cc17b77fa/1673796541842-IWA23OQI5YAGH9JK5NV9/image-asset.jpeg",
+  "excerpt": "",
+  "body_text": "Recorded as part of the Noisy Intermediate-Scale Quantum Systems: Advances and Applications (#DYNISQ-C22) conference at KITP on September 12-15, 2022 in Santa Barbara, CA.",
+  "body_html": "<p class=\"\" style=\"white-space:pre-wrap;\">Recorded as part of the Noisy Intermediate-Scale Quantum Systems: Advances and Applications (#DYNISQ-C22) conference at KITP on September 12-15, 2022 in Santa Barbara, CA.</p>"
+ },
+ {
+  "title": "To learn and cancel quantum noise: Probabilistic error cancellation with sparse Pauli-Lindblad models on noisy quantum processors - Zlatko Minev (IBM)",
+  "date": "2022-09-13",
+  "old_url": "/talks-and-interviews-gallery/to-learn-and-cancel-quantum-noise-probabilistic-error-cancellation-with-sparse-paulilindblad-models-on-noisy-quantum-processors-zlatko-minev-ibm",
+  "categories": [],
+  "tags": [
+   "research-talk",
+   "research"
+  ],
+  "youtube": null,
+  "image": "https://images.squarespace-cdn.com/content/v1/5a8a39baccc5c51cc17b77fa/1663046675619-OCDC8WZTZ3AXGYI226EX/image-asset.png",
+  "excerpt": "",
+  "body_text": "KITP Conference: Noisy Intermediate-Scale Quantum Systems: Advances and Applications",
+  "body_html": "<p class=\"\" style=\"white-space:pre-wrap;\">KITP Conference: Noisy Intermediate-Scale Quantum Systems: Advances and Applications</p>"
+ },
+ {
+  "title": "Probabilistic Error Cancellation with Sparse Pauli-Lindblad Models on Noisy Quantum Processors",
+  "date": "2022-05-13",
+  "old_url": "/talks-and-interviews-gallery/26053jadp5j4eoumg1jfj1wwqc2c59",
+  "categories": [
+   "research-talk"
+  ],
+  "tags": [
+   "research",
+   "research-talk"
+  ],
+  "youtube": "oPSBivh2rxQ",
+  "image": "https://images.squarespace-cdn.com/content/v1/5a8a39baccc5c51cc17b77fa/1652464130079-9LJ76A7M3EBJS2QO1JPG/image-asset.jpeg",
+  "excerpt": "",
+  "body_text": "Error-mitigation techniques can enable access to accurate estimates of physical observables that are otherwise biased by noise in pre-fault-tolerant quantum computers. One particularly general error-mitigation technique is probabilistic error cancellation (PEC), which effectively inverts a well-characterized noise channel to produce noise-free estimates of observables. Experimental realizations of this technique, however, have been impeded by the challenge of learning correlated noise in large quantum circuits. In this work, we present a practical protocol for learning a sparse noise model that scales to large quantum devices and is efficient to learn and invert. These advances enable us to demonstrate PEC on a superconducting quantum processor with crosstalk errors, thereby revealing a path to error-mitigated quantum computation with noise-free observables at larger circuit volumes.\n\n--\n\nThe Qiskit Seminar Series is a deep dive into various academic and research topics within the quantum community. It will feature community members and leaders every Friday, 12 PM EDT.",
+  "body_html": "<p class=\"\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p><p class=\"\" style=\"white-space:pre-wrap;\">Error-mitigation techniques can enable access to accurate estimates of physical observables that are otherwise biased by noise in pre-fault-tolerant quantum computers. One particularly general error-mitigation technique is probabilistic error cancellation (PEC), which effectively inverts a well-characterized noise channel to produce noise-free estimates of observables. Experimental realizations of this technique, however, have been impeded by the challenge of learning correlated noise in large quantum circuits. In this work, we present a practical protocol for learning a sparse noise model that scales to large quantum devices and is efficient to learn and invert. These advances enable us to demonstrate PEC on a superconducting quantum processor with crosstalk errors, thereby revealing a path to error-mitigated quantum computation with noise-free observables at larger circuit volumes.</p><p class=\"\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p><p class=\"\" style=\"white-space:pre-wrap;\">--</p><p class=\"\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p><p class=\"\" style=\"white-space:pre-wrap;\">The Qiskit Seminar Series is a deep dive into various academic and research topics within the quantum community. It will feature community members and leaders every Friday, 12 PM EDT.</p>"
+ },
+ {
+  "title": "Superconducting Qubits: design, analysis, energy & Qiskit Metal",
+  "date": "2022-02-12",
+  "old_url": "/talks-and-interviews-gallery/abc31vqjyyg3lxwgc8khqwmr9q18oo",
+  "categories": [
+   "research-talk"
+  ],
+  "tags": [
+   "physics",
+   "metal"
+  ],
+  "youtube": "ggfQa6jBV3Y",
+  "image": "https://images.squarespace-cdn.com/content/v1/5a8a39baccc5c51cc17b77fa/1644633153894-2CE0GPMPU38Y1UM4LD1F/image-asset.png",
+  "excerpt": "",
+  "body_text": "Dr. Zlatko Minev presented on Superconducting Qubits: design, analysis, energy and Qiskit Metal",
+  "body_html": "<p class=\"\" style=\"white-space:pre-wrap;\">Dr. Zlatko Minev presented on Superconducting Qubits: design, analysis, energy and Qiskit Metal</p>"
+ },
+ {
+  "title": "Quantum Hardware Design: Energy, Circuits, and Metal | Qiskit Seminar Series with Zlatko Minev",
+  "date": "2022-02-12",
+  "old_url": "/talks-and-interviews-gallery/klcamq1lwumzziq2khfckhtbxcxvdf",
+  "categories": [
+   "research-talk"
+  ],
+  "tags": [
+   "physics",
+   "metal"
+  ],
+  "youtube": "jjdYHZ0qxcY",
+  "image": "https://images.squarespace-cdn.com/content/v1/5a8a39baccc5c51cc17b77fa/1644633098957-DSE9OXF835TSJ1TP67M6/image-asset.png",
+  "excerpt": "",
+  "body_text": "Title: Quantum Hardware Design: Energy, Circuits, and Metal\nAbstract: The success of engineering complex quantum phenomena and large-scale quantum processors is rooted in our ability to rapidly and reliably design and analyze the underlying quantum devices. We introduce two new methods to this end and an open-source software platform for automated superconducting qubit layout, design, and analysis.\nIn this talk we overview use of the energy-participation ratio (EPR) of Josephson circuits (arXiv:2010.00620 & 1902.10355) and the modular quasi-lumped model for circuit quantum electrodynamics (cQED) (arXiv:2103.10344). These methods and others are implemented in our open-source framework Qiskit Metal, which we hope can help unify superconducting qubit design tools and simply the design and analysis. Metal aims to bring together experimentalists and theorists alike seeking to push the boundaries of quantum circuit theory and Hamiltonian analysis.",
+  "body_html": "<p class=\"\" style=\"white-space:pre-wrap;\">Title: Quantum Hardware Design: Energy, Circuits, and Metal</p><p class=\"\" style=\"white-space:pre-wrap;\">Abstract: The success of engineering complex quantum phenomena and large-scale quantum processors is rooted in our ability to rapidly and reliably design and analyze the underlying quantum devices. We introduce two new methods to this end and an open-source software platform for automated superconducting qubit layout, design, and analysis.</p><p class=\"\" style=\"white-space:pre-wrap;\">In this talk we overview use of the energy-participation ratio (EPR) of Josephson circuits (arXiv:2010.00620 &amp; 1902.10355) and the modular quasi-lumped model for circuit quantum electrodynamics (cQED) (arXiv:2103.10344). These methods and others are implemented in our open-source framework Qiskit Metal, which we hope can help unify superconducting qubit design tools and simply the design and analysis. Metal aims to bring together experimentalists and theorists alike seeking to push the boundaries of quantum circuit theory and Hamiltonian analysis.</p><p class=\"\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p>"
+ },
+ {
+  "title": "Careers, Life, and Yale Thursday Show: Quantum Computing & Its Mysteries",
+  "date": "2022-02-12",
+  "old_url": "/talks-and-interviews-gallery/55g0640sq20j6qwzjerfnz54kn4uju",
+  "categories": [
+   "science-outreach",
+   "interview",
+   "career"
+  ],
+  "tags": [
+   "career"
+  ],
+  "youtube": null,
+  "image": "https://images.squarespace-cdn.com/content/v1/5a8a39baccc5c51cc17b77fa/1644631970139-KCZ883GFD60QNFLTQY6W/image-asset.jpeg",
+  "excerpt": "",
+  "body_text": "Quantum physics was invented to account for two fundamental features of measurement results – their discreetness and randomness. Today, quantum computing appears poised to tackle computational problems that otherwise appear insurmountable. The advances in the field, at Yale and beyond, drive progress to both an emerging industry and to fundamental scientific discoveries that have eluded scientist for more than a hundred years.\n\nIn this webinar, meet the world of quantum and peer into one of the latest top scientific discoveries that originated at Yale and was the dissertation work of the speaker: To Catch and Reverse a Quantum Jump Mid-Flight.\n\nDr. Zlatko K. Minev is a research staff member at IBM Quantum, project and technical lead of IBM quantum device design & analysis Qiskit Metal project, and the product manager and host of IBM Qiskit’s Quantum Information Seminar Series. Minev received his Ph.D. with distinction from Yale University in the field of superconducting quantum physics, under Michel Devoret. Recently, MIT Technology Review named Minev one of their 35 Global Innovators Under 35, and his dissertation work on catching and reversing a quantum jump mid-flight was selected as the top Math/Physical Sciences discovery in Discover’s The Top 50 Stories of the Year. He is a laureate of the Presidential John Atanasoff Award. Minev serves as a Member of the Executive Board of the Yale Graduate Alumni Association (GSAA). In 2012, at Yale, Minev founded a nationwide science outreach and career pathways organization (Open Labs), which opens pathways for underrepresented and underprivileged young scholars to pursue careers in the sciences. For his leadership, Minev was awarded the Yale-Jefferson Award for Public Service. Minev received his B.A. from UC Berkeley with distinction and high honors, under Irfan Siddiqi. Minev’s work has been featured in mainstream media worldwide (100+ news publications), national tv and radio interviews (e.g., NPR).",
+  "body_html": "<p class=\"\" style=\"white-space:pre-wrap;\">Quantum physics was invented to account for two fundamental features of measurement results – their discreetness and randomness. Today, quantum computing appears poised to tackle computational problems that otherwise appear insurmountable. The advances in the field, at Yale and beyond, drive progress to both an emerging industry and to fundamental scientific discoveries that have eluded scientist for more than a hundred years.</p><p class=\"\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p><p class=\"\" style=\"white-space:pre-wrap;\">In this webinar, meet the world of quantum and peer into one of the latest top scientific discoveries that originated at Yale and was the dissertation work of the speaker: To Catch and Reverse a Quantum Jump Mid-Flight.</p><p class=\"\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p><p class=\"\" style=\"white-space:pre-wrap;\">Dr. Zlatko K. Minev is a research staff member at IBM Quantum, project and technical lead of IBM quantum device design &amp; analysis Qiskit Metal project, and the product manager and host of IBM Qiskit’s Quantum Information Seminar Series. Minev received his Ph.D. with distinction from Yale University in the field of superconducting quantum physics, under Michel Devoret. Recently, MIT Technology Review named Minev one of their 35 Global Innovators Under 35, and his dissertation work on catching and reversing a quantum jump mid-flight was selected as the top Math/Physical Sciences discovery in Discover’s The Top 50 Stories of the Year. He is a laureate of the Presidential John Atanasoff Award. Minev serves as a Member of the Executive Board of the Yale Graduate Alumni Association (GSAA). In 2012, at Yale, Minev founded a nationwide science outreach and career pathways organization (Open Labs), which opens pathways for underrepresented and underprivileged young scholars to pursue careers in the sciences. For his leadership, Minev was awarded the Yale-Jefferson Award for Public Service. Minev received his B.A. from UC Berkeley with distinction and high honors, under Irfan Siddiqi. Minev’s work has been featured in mainstream media worldwide (100+ news publications), national tv and radio interviews (e.g., NPR).</p>"
+ },
+ {
+  "title": "To catch and reverse a quantum jump mid-flight | Dr. Zlatko Minev @YuQC",
+  "date": "2022-02-12",
+  "old_url": "/talks-and-interviews-gallery/ignfjxpaoybz7c2uv7umvfhetlw8f2",
+  "categories": [
+   "research-talk"
+  ],
+  "tags": [
+   "physics"
+  ],
+  "youtube": "YZkZAScrSQM",
+  "image": "https://images.squarespace-cdn.com/content/v1/5a8a39baccc5c51cc17b77fa/1644631875387-BW1UHFSARW5QJ7CYQ4QH/image-asset.jpeg",
+  "excerpt": "",
+  "body_text": "Dr. Minev is a scientist with an applied experimental and theoretical background, focused on quantum computing and fundamental physics. He holds a permanent research position at IBM Quantum, at TJ Watson. Dr. Minev received his Ph.D. in Applied Physics from Yale University, working in the Devoret Quantum Lab.\n\nSummary\nQuantum physics was invented to account for two fundamental features of measurement results -- their discreetness and randomness. Emblematic of these features is Bohr's idea of quantum jumps between two discrete energy levels of an atom. Experimentally, quantum jumps were first observed in an atomic ion driven by a weak deterministic force while under strong continuous energy measurement. The times at which the discontinuous jump transitions occur are reputed to be fundamentally unpredictable. Can there be, despite the indeterminism of quantum physics, a possibility to know if a quantum jump is about to occur or not? Here, we answer this question affirmatively by experimentally demonstrating that the jump from the ground to an excited state of a superconducting artificial three-level atom can be tracked as it follows a predictable \"flight,\" by monitoring the population of an auxiliary energy level coupled to the ground state. The experimental results demonstrate that the jump evolution when completed is continuous, coherent, and deterministic. Furthermore, exploiting these features and using real-time monitoring and feedback, we catch and reverse a quantum jump mid-flight, thus deterministically preventing its completion. Our results, which agree with theoretical predictions essentially without adjustable parameters, support the modern quantum trajectory theory and provide new ground for the exploration of real-time intervention techniques in the control of quantum systems, such as early detection of error syndromes.",
+  "body_html": "<p class=\"\" style=\"white-space:pre-wrap;\">Dr. Minev is a scientist with an applied experimental and theoretical background, focused on quantum computing and fundamental physics. He holds a permanent research position at IBM Quantum, at TJ Watson. Dr. Minev received his Ph.D. in Applied Physics from Yale University, working in the Devoret Quantum Lab.</p><p class=\"\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p><p class=\"\" style=\"white-space:pre-wrap;\">Summary</p><p class=\"\" style=\"white-space:pre-wrap;\">Quantum physics was invented to account for two fundamental features of measurement results -- their discreetness and randomness. Emblematic of these features is Bohr's idea of quantum jumps between two discrete energy levels of an atom. Experimentally, quantum jumps were first observed in an atomic ion driven by a weak deterministic force while under strong continuous energy measurement. The times at which the discontinuous jump transitions occur are reputed to be fundamentally unpredictable. Can there be, despite the indeterminism of quantum physics, a possibility to know if a quantum jump is about to occur or not? Here, we answer this question affirmatively by experimentally demonstrating that the jump from the ground to an excited state of a superconducting artificial three-level atom can be tracked as it follows a predictable \"flight,\" by monitoring the population of an auxiliary energy level coupled to the ground state. The experimental results demonstrate that the jump evolution when completed is continuous, coherent, and deterministic. Furthermore, exploiting these features and using real-time monitoring and feedback, we catch and reverse a quantum jump mid-flight, thus deterministically preventing its completion. Our results, which agree with theoretical predictions essentially without adjustable parameters, support the modern quantum trajectory theory and provide new ground for the exploration of real-time intervention techniques in the control of quantum systems, such as early detection of error syndromes.</p>"
+ },
+ {
+  "title": "Lecture 3.1 - Noise in Quantum Computers - part 1",
+  "date": "2022-05-12",
+  "old_url": "/talks-and-interviews-gallery/qqvc7laa46n5ei7c9atuaro75ml9wv",
+  "categories": [
+   "education"
+  ],
+  "tags": [
+   "education",
+   "qgss"
+  ],
+  "youtube": "kV0RsKXSqRg",
+  "image": "https://images.squarespace-cdn.com/content/v1/5a8a39baccc5c51cc17b77fa/1652323471747-6ABHJQ7C308J1KTYBK32/image-asset.jpeg",
+  "excerpt": "",
+  "body_text": "In this lecture, Zlatko discusses the different types of noise involved in real quantum computers. He considers the simple example of the X gate and compares the results of the ideal and real experiments. To reach noiseless computers, we need to discuss types of quantum errors. In this lecture, Zlatko discusses common coherent error using ideal and noisy gates. We conclude that coherent error will build up in a quadratic way and will affect the performance, irrespective of the circuit depth.\nhttps://learn.qiskit.org/summer-school/2021/lec3-1-noise-quantum-computers-1",
+  "body_html": "<p class=\"\" style=\"white-space:pre-wrap;\">In this lecture, Zlatko discusses the different types of noise involved in real quantum computers. He considers the simple example of the X gate and compares the results of the ideal and real experiments. To reach noiseless computers, we need to discuss types of quantum errors. In this lecture, Zlatko discusses common coherent error using ideal and noisy gates. We conclude that coherent error will build up in a quadratic way and will affect the performance, irrespective of the circuit depth.</p><p class=\"\" style=\"white-space:pre-wrap;\">https://learn.qiskit.org/summer-school/2021/lec3-1-noise-quantum-computers-1</p>"
+ },
+ {
+  "title": "Lecture 3.2 - Noise in Quantum Computers - part 2",
+  "date": "2022-05-12",
+  "old_url": "/talks-and-interviews-gallery/nukilvcralauq892244jke0c8sgngn",
+  "categories": [
+   "education"
+  ],
+  "tags": [
+   "education",
+   "qgss"
+  ],
+  "youtube": "9igrPgbU1ro",
+  "image": "https://images.squarespace-cdn.com/content/v1/5a8a39baccc5c51cc17b77fa/1652323703334-U42WOII9JYDD54751R4V/image-asset.jpeg",
+  "excerpt": "",
+  "body_text": "In this lecture, Zlatko continues on with the topic of noise in quantum computation, focusing on sampling, SPAM and incoherent errors. Zlatko discusses quantum measurement theory through an example of von-Neumann measurement and the effects of sampling measurement outcomes. He relates these to how measurement, more specifically measurement and sampling errors affect algorithmic performance on quantum computers.  He then continues onwards to SPAM (State preparation and measurement) errors and discuss how they affect circuit performance. Finally, he finishes off the lecture with a brief treatment of incoherent errors.\n\nhttps://learn.qiskit.org/summer-school/2021/lec3-2-noise-quantum-computers-pt-2",
+  "body_html": "<p class=\"\" style=\"white-space:pre-wrap;\">In this lecture, Zlatko continues on with the topic of noise in quantum computation, focusing on sampling, SPAM and incoherent errors. Zlatko discusses quantum measurement theory through an example of von-Neumann measurement and the effects of sampling measurement outcomes. He relates these to how measurement, more specifically measurement and sampling errors affect algorithmic performance on quantum computers.  He then continues onwards to SPAM (State preparation and measurement) errors and discuss how they affect circuit performance. Finally, he finishes off the lecture with a brief treatment of incoherent errors.</p><p class=\"\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p><p class=\"\" style=\"white-space:pre-wrap;\">https://learn.qiskit.org/summer-school/2021/lec3-2-noise-quantum-computers-pt-2</p>"
+ },
+ {
+  "title": "Zlatko Minev - the winner of the 2020 John Atanasoff Award of the President of Bulgaria.",
+  "date": "2022-02-12",
+  "old_url": "/talks-and-interviews-gallery/f4jeaoj4juy7sg0nqz35omq84os707",
+  "categories": [
+   "interview",
+   "award"
+  ],
+  "tags": [
+   "award",
+   "interview"
+  ],
+  "youtube": "DOv9hiyjNHE",
+  "image": "https://images.squarespace-cdn.com/content/v1/5a8a39baccc5c51cc17b77fa/1644631742301-77O9SODY4TQT3NOQIA7Q/image-asset.jpeg",
+  "excerpt": "",
+  "body_text": "\"Believe in your scientific ideas, even when they are considered impossible!\" - shared the Bulgarian scientist Zlatko Minev, winner of the 2020 John Atanasoff Аward of the President of Bulgaria. \n\nHe has recently published an article in Nature, challenging in the same time Einstein, Shrodinger and Bohr with what can be a breakthrough in quantum computing - PREDICTABILITY and CONTROL of the QUANTUM JUMP. His discovery can be considered a \"scientific earthquake\" and thanks to his breakthrough, the future quantum computers will be able to solve problems today's computers won't, even in a million years. \n\nWe are honoured that Musala Soft's President Elena Marinova is part of the competitions' jury. \n\nBe brave! Believe! Learn! Share! Explore! \n#MusalaSoft #passion #impact",
+  "body_html": "<p class=\"\" style=\"white-space:pre-wrap;\">\"Believe in your scientific ideas, even when they are considered impossible!\" - shared the Bulgarian scientist Zlatko Minev, winner of the 2020 John Atanasoff Аward of the President of Bulgaria. </p><p class=\"\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p><p class=\"\" style=\"white-space:pre-wrap;\">He has recently published an article in Nature, challenging in the same time Einstein, Shrodinger and Bohr with what can be a breakthrough in quantum computing - PREDICTABILITY and CONTROL of the QUANTUM JUMP. His discovery can be considered a \"scientific earthquake\" and thanks to his breakthrough, the future quantum computers will be able to solve problems today's computers won't, even in a million years. </p><p class=\"\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p><p class=\"\" style=\"white-space:pre-wrap;\">We are honoured that Musala Soft's President Elena Marinova is part of the competitions' jury. </p><p class=\"\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p><p class=\"\" style=\"white-space:pre-wrap;\">Be brave! Believe! Learn! Share! Explore! </p><p class=\"\" style=\"white-space:pre-wrap;\">#MusalaSoft #passion #impact</p>"
+ },
+ {
+  "title": "Joint Quantum Institute (JQI) - Zlatko Minev - To catch and reverse a quantum jump mid-flight",
+  "date": "2019-06-14",
+  "old_url": "/talks-and-interviews-gallery/joint-quantum-institute-jqi-zlatko-minev-to-catch-and-reverse-a-quantum-jump-mid-flight",
+  "categories": [
+   "research-talk"
+  ],
+  "tags": [
+   "research-talk",
+   "quantum-jump-nature",
+   "front-page"
+  ],
+  "youtube": "JGNL91MhC5A",
+  "image": "https://images.squarespace-cdn.com/content/v1/5a8a39baccc5c51cc17b77fa/1560509000103-Y289O8NY85JTAGGPMXK6/image-asset.jpeg",
+  "excerpt": "",
+  "body_text": "Joint Quantum Institute (JQI), University of Maryland \n\"To catch and reverse a quantum jump mid-flight\"\nMany thanks to Nobel Laureate Bill Phillips for all his in-depth questions during the talk and to Vlad Manucharyan for being a great host!",
+  "body_html": "<p class=\"\"><a href=\"https://jqi.umd.edu/\" target=\"_blank\"><strong>Joint Quantum Institute (JQI)</strong></a><strong>, University of Maryland </strong><br>\"To catch and reverse a quantum jump mid-flight\"<br>Many thanks to Nobel Laureate <a href=\"https://www.nobelprize.org/prizes/physics/1997/phillips/biographical/\" target=\"_blank\">Bill Phillips</a> for all his in-depth questions during the talk and to <a href=\"https://jqi.umd.edu/people/vladimir-manucharyan\" target=\"_blank\">Vlad Manucharyan</a> for being a great host!</p>"
+ },
+ {
+  "title": "16. Superconducting Qubits I: Quantizing a Harmonic Oscillator, Josephson Junctions - Part 1",
+  "date": "2022-05-12",
+  "old_url": "/talks-and-interviews-gallery/xnft5z97nntntyldk84dbrv2rl315m",
+  "categories": [
+   "education"
+  ],
+  "tags": [
+   "education",
+   "qgss"
+  ],
+  "youtube": "eZJjQGu85Ps",
+  "image": "https://images.squarespace-cdn.com/content/v1/5a8a39baccc5c51cc17b77fa/1652323766858-ADV6FZYT36MM8541704H/image-asset.jpeg",
+  "excerpt": "",
+  "body_text": "Lectures 16 – 21 introduce the hardware used for quantum computation, with emphasis on superconducting qubits. The first three lectures discuss how to build a superconducting transmon quantum bit (qubit) out of an anharmonic oscillator using Josephson junctions, while the next three lectures focus on coupling to the qubit in a circuit quantum electrodynamics architecture.\nDownload the lecture notes here\nDownload the lab notebook (and solutions) for the last three lectures here\nhttps://learn.qiskit.org/summer-school/2020/superconducting-qubits-i-quantizingharmonic-oscillator-josephson-junctions",
+  "body_html": "<p class=\"\" style=\"white-space:pre-wrap;\">Lectures 16 – 21 introduce the hardware used for quantum computation, with emphasis on superconducting qubits. The first three lectures discuss how to build a superconducting transmon quantum bit (qubit) out of an anharmonic oscillator using Josephson junctions, while the next three lectures focus on coupling to the qubit in a circuit quantum electrodynamics architecture.</p><p class=\"\" style=\"white-space:pre-wrap;\">Download the lecture notes here</p><p class=\"\" style=\"white-space:pre-wrap;\">Download the lab notebook (and solutions) for the last three lectures here</p><p class=\"\" style=\"white-space:pre-wrap;\">https://learn.qiskit.org/summer-school/2020/superconducting-qubits-i-quantizingharmonic-oscillator-josephson-junctions</p>"
+ },
+ {
+  "title": "17. Superconducting Qubits I: Quantizing a Harmonic Oscillator, Josephson Junctions - Part 2",
+  "date": "2022-05-12",
+  "old_url": "/talks-and-interviews-gallery/a3dbqqd8an2f9r0gyu04hs1tfq3fxl",
+  "categories": [
+   "education"
+  ],
+  "tags": [
+   "education",
+   "qgss"
+  ],
+  "youtube": "SDiiFOham6Y",
+  "image": "https://images.squarespace-cdn.com/content/v1/5a8a39baccc5c51cc17b77fa/1652324565115-WCYF7QLAQ1S7DICZR91N/image-asset.jpeg",
+  "excerpt": "",
+  "body_text": "Lectures 16 – 21 introduce the hardware used for quantum computation, with emphasis on superconducting qubits. The first three lectures discuss how to build a superconducting transmon quantum bit (qubit) out of an anharmonic oscillator using Josephson junctions, while the next three lectures focus on coupling to the qubit in a circuit quantum electrodynamics architecture.\n\nDownload the lecture notes here\nDownload the lab notebook (and solutions) for the last three lectures here\n\nhttps://learn.qiskit.org/summer-school/2020/superconducting-qubits-i-quantizingharmonic-oscillator-josephson-junctions",
+  "body_html": "<p class=\"\" style=\"white-space:pre-wrap;\">Lectures 16 – 21 introduce the hardware used for quantum computation, with emphasis on superconducting qubits. The first three lectures discuss how to build a superconducting transmon quantum bit (qubit) out of an anharmonic oscillator using Josephson junctions, while the next three lectures focus on coupling to the qubit in a circuit quantum electrodynamics architecture.</p><p class=\"\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p><p class=\"\" style=\"white-space:pre-wrap;\">Download the lecture notes here</p><p class=\"\" style=\"white-space:pre-wrap;\">Download the lab notebook (and solutions) for the last three lectures here</p><p class=\"\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p><p class=\"\" style=\"white-space:pre-wrap;\">https://learn.qiskit.org/summer-school/2020/superconducting-qubits-i-quantizingharmonic-oscillator-josephson-junctions</p>"
+ },
+ {
+  "title": "18. Superconducting Qubits I: Quantizing a Harmonic Oscillator, Josephson Junctions - Part 3",
+  "date": "2022-05-12",
+  "old_url": "/talks-and-interviews-gallery/w3w17ei2s5lh27s0efp8h1uqgrcgs4",
+  "categories": [
+   "education"
+  ],
+  "tags": [
+   "education",
+   "qgss"
+  ],
+  "youtube": "hGBAz63NIH8",
+  "image": "https://images.squarespace-cdn.com/content/v1/5a8a39baccc5c51cc17b77fa/1652324610328-USK97XU3900I6YYE91T3/image-asset.jpeg",
+  "excerpt": "",
+  "body_text": "Lectures 16 – 21 introduce the hardware used for quantum computation, with emphasis on superconducting qubits. The first three lectures discuss how to build a superconducting transmon quantum bit (qubit) out of an anharmonic oscillator using Josephson junctions, while the next three lectures focus on coupling to the qubit in a circuit quantum electrodynamics architecture.\n\nDownload the lecture notes here\nDownload the lab notebook (and solutions) for the last three lectures here\nhttps://learn.qiskit.org/summer-school/2020/superconducting-qubits-i-quantizingharmonic-oscillator-josephson-junctions",
+  "body_html": "<p class=\"\" style=\"white-space:pre-wrap;\">Lectures 16 – 21 introduce the hardware used for quantum computation, with emphasis on superconducting qubits. The first three lectures discuss how to build a superconducting transmon quantum bit (qubit) out of an anharmonic oscillator using Josephson junctions, while the next three lectures focus on coupling to the qubit in a circuit quantum electrodynamics architecture.</p><p class=\"\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p><p class=\"\" style=\"white-space:pre-wrap;\">Download the lecture notes here</p><p class=\"\" style=\"white-space:pre-wrap;\">Download the lab notebook (and solutions) for the last three lectures here</p><p class=\"\" style=\"white-space:pre-wrap;\">https://learn.qiskit.org/summer-school/2020/superconducting-qubits-i-quantizingharmonic-oscillator-josephson-junctions</p>"
+ },
+ {
+  "title": "19. Superconducting Qubits II: Circuit Quantum Electrodynamics, Readout and Calibration Methods Pt 1",
+  "date": "2022-05-12",
+  "old_url": "/talks-and-interviews-gallery/2knhdn0h5u4k59y3wr5w0boiaegvxq",
+  "categories": [
+   "education"
+  ],
+  "tags": [
+   "education",
+   "qgss"
+  ],
+  "youtube": "dmYnfGo-8eM",
+  "image": "https://images.squarespace-cdn.com/content/v1/5a8a39baccc5c51cc17b77fa/1652323843831-B8WG6LQ4KMEVCUWA1OFP/image-asset.jpeg",
+  "excerpt": "",
+  "body_text": "Lectures 16 – 21 introduce the hardware used for quantum computation, with emphasis on superconducting qubits. The first three lectures discuss how to build a superconducting transmon quantum bit (qubit) out of an anharmonic oscillator using Josephson junctions, while the next three lectures focus on coupling to the qubit in a circuit quantum electrodynamics architecture.\n\nDownload the lecture notes here\nDownload the lab notebook (and solutions) for the last three lectures here\n\nhttps://learn.qiskit.org/summer-school/2020/superconducting-qubits-ii-circuit-electrodynamics-readout-calibration-methods",
+  "body_html": "<p class=\"\" style=\"white-space:pre-wrap;\">Lectures 16 – 21 introduce the hardware used for quantum computation, with emphasis on superconducting qubits. The first three lectures discuss how to build a superconducting transmon quantum bit (qubit) out of an anharmonic oscillator using Josephson junctions, while the next three lectures focus on coupling to the qubit in a circuit quantum electrodynamics architecture.</p><p class=\"\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p><p class=\"\" style=\"white-space:pre-wrap;\">Download the lecture notes here</p><p class=\"\" style=\"white-space:pre-wrap;\">Download the lab notebook (and solutions) for the last three lectures here</p><p class=\"\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p><p class=\"\" style=\"white-space:pre-wrap;\">https://learn.qiskit.org/summer-school/2020/superconducting-qubits-ii-circuit-electrodynamics-readout-calibration-methods</p>"
+ },
+ {
+  "title": "20. Superconducting Qubits II: Circuit Quantum Electrodynamics, Readout and Calibration Methods Pt 2",
+  "date": "2022-05-12",
+  "old_url": "/talks-and-interviews-gallery/5q1i6jf9fpmcvqnewwuhclwjujwn9w",
+  "categories": [
+   "education"
+  ],
+  "tags": [
+   "education",
+   "qgss"
+  ],
+  "youtube": "jUPAeOoZpEU",
+  "image": "https://images.squarespace-cdn.com/content/v1/5a8a39baccc5c51cc17b77fa/1652324656154-W3TGILIK88D0Y507V0UY/image-asset.jpeg",
+  "excerpt": "",
+  "body_text": "Lectures 16 – 21 introduce the hardware used for quantum computation, with emphasis on superconducting qubits. The first three lectures discuss how to build a superconducting transmon quantum bit (qubit) out of an anharmonic oscillator using Josephson junctions, while the next three lectures focus on coupling to the qubit in a circuit quantum electrodynamics architecture.\n\nDownload the lecture notes here\nDownload the lab notebook (and solutions) for the last three lectures here\nhttps://learn.qiskit.org/summer-school/2020/superconducting-qubits-ii-circuit-electrodynamics-readout-calibration-methods",
+  "body_html": "<p class=\"\" style=\"white-space:pre-wrap;\">Lectures 16 – 21 introduce the hardware used for quantum computation, with emphasis on superconducting qubits. The first three lectures discuss how to build a superconducting transmon quantum bit (qubit) out of an anharmonic oscillator using Josephson junctions, while the next three lectures focus on coupling to the qubit in a circuit quantum electrodynamics architecture.</p><p class=\"\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p><p class=\"\" style=\"white-space:pre-wrap;\">Download the lecture notes here</p><p class=\"\" style=\"white-space:pre-wrap;\">Download the lab notebook (and solutions) for the last three lectures here</p><p class=\"\" style=\"white-space:pre-wrap;\">https://learn.qiskit.org/summer-school/2020/superconducting-qubits-ii-circuit-electrodynamics-readout-calibration-methods</p>"
+ },
+ {
+  "title": "21. Superconducting Qubits II: Circuit Quantum Electrodynamics, Readout and Calibration Methods Pt 3",
+  "date": "2022-05-12",
+  "old_url": "/talks-and-interviews-gallery/p3erhl4nz139sdblpx8ym23nqpyo1b",
+  "categories": [
+   "education"
+  ],
+  "tags": [
+   "education",
+   "qgss"
+  ],
+  "youtube": "_IpCwMvc0dA",
+  "image": "https://images.squarespace-cdn.com/content/v1/5a8a39baccc5c51cc17b77fa/1652324692276-4HQUNNIALJH846IXB0EG/image-asset.jpeg",
+  "excerpt": "",
+  "body_text": "Lectures 16 – 21 introduce the hardware used for quantum computation, with emphasis on superconducting qubits. The first three lectures discuss how to build a superconducting transmon quantum bit (qubit) out of an anharmonic oscillator using Josephson junctions, while the next three lectures focus on coupling to the qubit in a circuit quantum electrodynamics architecture.\n\nDownload the lecture notes here\n\nDownload the lab notebook (and solutions) for the last three lectures here\n\nhttps://learn.qiskit.org/summer-school/2020/superconducting-qubits-ii-circuit-electrodynamics-readout-calibration-methods",
+  "body_html": "<p class=\"\" style=\"white-space:pre-wrap;\">Lectures 16 – 21 introduce the hardware used for quantum computation, with emphasis on superconducting qubits. The first three lectures discuss how to build a superconducting transmon quantum bit (qubit) out of an anharmonic oscillator using Josephson junctions, while the next three lectures focus on coupling to the qubit in a circuit quantum electrodynamics architecture.</p><p class=\"\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p><p class=\"\" style=\"white-space:pre-wrap;\">Download the lecture notes here</p><p class=\"\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p><p class=\"\" style=\"white-space:pre-wrap;\">Download the lab notebook (and solutions) for the last three lectures here</p><p class=\"\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p><p class=\"\" style=\"white-space:pre-wrap;\">https://learn.qiskit.org/summer-school/2020/superconducting-qubits-ii-circuit-electrodynamics-readout-calibration-methods</p>"
+ },
+ {
+  "title": "NPR Interview: A New View On Quantum Weirdness by SciFri",
+  "date": "2019-06-14",
+  "old_url": "/talks-and-interviews-gallery/npr-interview-a-new-view-on-quantum-weirdness-by-scifri",
+  "categories": [
+   "interview",
+   "interview-research"
+  ],
+  "tags": [
+   "interview",
+   "interview-audio",
+   "quantum-jump-nature"
+  ],
+  "youtube": null,
+  "image": "https://images.squarespace-cdn.com/content/v1/5a8a39baccc5c51cc17b77fa/1560509615250-BCK1F52N1ZEXDPZ98T3Y/nprscience.jpg",
+  "excerpt": "",
+  "body_text": "Interview by Ira Flatow of NPR Science Friday with Dr. Zlatko Minev\nNPR Sound Cloud\nNPR Science Friday\nNPR Podcast",
+  "body_html": "<p class=\"\">Interview by Ira Flatow of NPR Science Friday with Dr. Zlatko Minev<br><a href=\"https://soundcloud.com/scifri/a-new-view-on-quantum-weirdness\" target=\"_blank\">NPR Sound Cloud</a><br><a href=\"https://www.sciencefriday.com/segments/quantum-jumps/\">NPR Science Friday</a><br><a href=\"https://www.npr.org/podcasts/583350334/science-friday\" target=\"_blank\">NPR Podcast</a></p>"
+ },
+ {
+  "title": "Can We Save Schrödinger's Cat? Quantum Jumps with Yale's Dr. Zlatko Minev",
+  "date": "2019-06-14",
+  "old_url": "/talks-and-interviews-gallery/can-we-save-schrdingers-cat-quantum-jumps-with-yales-dr-zlatko-minev",
+  "categories": [
+   "interview",
+   "interview-research"
+  ],
+  "tags": [
+   "quantum-jump-nature",
+   "interview",
+   "interview-audio",
+   "front-page"
+  ],
+  "youtube": "fnbS4wxRhOk",
+  "image": "https://images.squarespace-cdn.com/content/v1/5a8a39baccc5c51cc17b77fa/1560509323413-AW1DXFXJZ8OEDLDBNLRO/image-asset.jpeg",
+  "excerpt": "",
+  "body_text": "Event Horizon Show interview with Dr. Zlatko Minev by John Michael Godier. Zlatko explained what this new experiment and paper is, as well as how quantum physics works. He also discussed how this relates to Einstein’s quantum theory as well as if this will lead to new and exciting developments within the field of quantum mechanics and for the field of quantum computers 2019 and beyond.",
+  "body_html": "<p class=\"\"><a href=\"https://www.eventhorizonshow.com/\" target=\"_blank\">Event Horizon Show</a> interview with Dr. Zlatko Minev by John Michael Godier. Zlatko explained what this<a href=\"https://news.yale.edu/2019/06/03/physicists-can-predict-jumps-schrodingers-cat-and-finally-save-it\"> new experiment </a>and <a href=\"https://www.nature.com/articles/s41586-019-1287-z\">paper</a> is, as well as how quantum physics works. He also discussed how this relates to Einstein’s quantum theory as well as if this will lead to new and exciting developments within the field of quantum mechanics and for the field of quantum computers 2019 and beyond.</p>"
+ },
+ {
+  "title": "Quantum Computing Introduction with Zlatko Minev",
+  "date": "2019-06-14",
+  "old_url": "/talks-and-interviews-gallery/quantum-computing-introduction-with-zlatko-minev",
+  "categories": [
+   "interview"
+  ],
+  "tags": [
+   "interview",
+   "interview-audio",
+   "quantum-computing",
+   "front-page"
+  ],
+  "youtube": "z1X5ilXnpTA",
+  "image": "https://images.squarespace-cdn.com/content/v1/5a8a39baccc5c51cc17b77fa/1560509921902-CHVF9I3VB7D6GTIYX4IZ/image-asset.jpeg",
+  "excerpt": "",
+  "body_text": "Zlatko Minev talks to Software Engineering Daily, a podcast that features interviews about technical software topics. Subjects discussed in this episode describes how qubits work, which algorithms quantum computing impacts, and which parts of modern computer architecture will work on a quantum computer.",
+  "body_html": "<p class=\"\">Zlatko Minev talks to <a href=\"https://softwareengineeringdaily.com/\">Software Engineering Daily</a>, a podcast that features interviews about technical software topics. Subjects discussed in this episode describes how qubits work, which algorithms quantum computing impacts, and which parts of modern computer architecture will work on a quantum computer.</p>"
+ },
+ {
+  "title": "Open Labs - Science Outreach",
+  "date": "2019-06-14",
+  "old_url": "/talks-and-interviews-gallery/open-labs-science-outreach",
+  "categories": [
+   "science-outreach"
+  ],
+  "tags": [
+   "open-labs",
+   "science-outreach",
+   "front-page"
+  ],
+  "youtube": "xvw_7r3KTwg",
+  "image": "https://images.squarespace-cdn.com/content/v1/5a8a39baccc5c51cc17b77fa/1560509964528-UROISF0W09WCWXYU8SMZ/image-asset.jpeg",
+  "excerpt": "",
+  "body_text": "Founded by Zlatko Minev, Open Labs is a Science Outreach & Careers Pathways national organization.",
+  "body_html": "<p class=\"\">Founded by Zlatko Minev, <a href=\"http://theopenlabs.org\">Open Labs</a> is a Science Outreach &amp; Careers Pathways national organization.</p>"
+ },
+ {
+  "title": "Meet the meQuanics - E33 - Field Report #apsmarch - Zlatko Minev (Yale) by meQuanics",
+  "date": "2019-06-14",
+  "old_url": "/talks-and-interviews-gallery/meet-the-mequanics-e33-field-report-apsmarch-zlatko-minev-yale-by-mequanics",
+  "categories": [
+   "interview"
+  ],
+  "tags": [
+   "podcast",
+   "research"
+  ],
+  "youtube": null,
+  "image": "https://images.squarespace-cdn.com/content/v1/5a8a39baccc5c51cc17b77fa/1560511975748-ZCP6PLQ28XWN3WFPU1B4/image-asset.jpeg",
+  "excerpt": "",
+  "body_text": "Zlatko Minev was the guest of Meet the meQuanics, a weekly podcast hosted by Simon Devitt to discuss APS’ March Meeting in this Field Report.\nThis weekly podcast invites active researchers in quantum physics and quantum technology to discuss actual physical hardware, the global effort to construct a new technological industry and how research technology can move from the academic space into the private sector.",
+  "body_html": "<p class=\"\">Zlatko Minev was the guest of <em>Meet the meQuanics, </em>a weekly podcast hosted by Simon Devitt to discuss APS’ March Meeting in this <em>Field Report</em>.</p><p class=\"\">This weekly podcast invites active researchers in quantum physics and quantum technology to discuss actual physical hardware, the global effort to construct a new technological industry and how research technology can move from the academic space into the private sector.</p>"
+ },
+ {
+  "title": "Yale-Jefferson Award 2016",
+  "date": "2019-06-14",
+  "old_url": "/talks-and-interviews-gallery/yale-jefferson-award-2016",
+  "categories": [
+   "science-outreach",
+   "award"
+  ],
+  "tags": [
+   "science-outreach",
+   "open-labs",
+   "public-speech",
+   "award",
+   "front-page"
+  ],
+  "youtube": "w4b1O5Vl0fo",
+  "image": "https://images.squarespace-cdn.com/content/v1/5a8a39baccc5c51cc17b77fa/1560512582096-DXCAKW29XW13TXE8G9LC/image-asset.jpeg",
+  "excerpt": "",
+  "body_text": "I founded and led a multi-university science-outreach organization, Open Labs, to inspire underrepresented students to pursue careers in the sciences. For the impact of Open Labs at Yale and throughout the North East and my six years of leadership, I received the Yale-Jefferson Award for Public Service.",
+  "body_html": "<p class=\"\">I founded and led a multi-university science-outreach organization,&nbsp;<a href=\"http://theopenlabs.org/\" target=\"_blank\"><em>Open Labs</em></a><em>,</em>&nbsp;to inspire underrepresented students to pursue careers in the sciences. For the impact of Open Labs at Yale and throughout the North East and my six years of leadership, I received the <a href=\"https://gsas.yale.edu/news/founder-open-labs-be-honored-aya-annual-meeting\" target=\"_blank\"><em>Yale-Jefferson Award for Public Service</em></a>.</p>"
+ },
+ {
+  "title": "Physical Review Journal Club: \"Surpassing the Resistance Quantum with a Geometric Superinductor.\"",
+  "date": "2022-02-12",
+  "old_url": "/talks-and-interviews-gallery/s8uia855jdlowj2b3ddl44dxrsyyva",
+  "categories": [],
+  "tags": [
+   "zlatko-hosting",
+   "physics"
+  ],
+  "youtube": "C3RQx2uEHcQ",
+  "image": "https://images.squarespace-cdn.com/content/v1/5a8a39baccc5c51cc17b77fa/1644632185958-HPVV97AW1N28G7L5PCEY/image-asset.png",
+  "excerpt": "",
+  "body_text": "The Physical Review Journal Club is joined by M. Peruzzo, A. Trioni, F. Hassani, M. Zemlicka, and J. M. Fink, Institute of Science and Technology Austria to discuss their recently published Physical Review Applied paper \"Surpassing the Resistance Quantum Geometric Superinductor.\" The group breaks down their findings and answers questions with moderator Zlatko K. Minev from IBM, TJ Watson.",
+  "body_html": "<p class=\"\" style=\"white-space:pre-wrap;\">The Physical Review Journal Club is joined by M. Peruzzo, A. Trioni, F. Hassani, M. Zemlicka, and J. M. Fink, Institute of Science and Technology Austria to discuss their recently published Physical Review Applied paper \"Surpassing the Resistance Quantum Geometric Superinductor.\" The group breaks down their findings and answers questions with moderator Zlatko K. Minev from IBM, TJ Watson.</p><p class=\"\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p>"
+ },
+ {
+  "title": "Superconducting Qubits: Quantum Device Design and Analysis (Brookhaven National Lab C2QA)",
+  "date": "2022-02-12",
+  "old_url": "/talks-and-interviews-gallery/superconducting-qubits-quantum-device-design-and-analysis-brookhaven-national-lab-c2qa",
+  "categories": [
+   "research-talk"
+  ],
+  "tags": [
+   "physics"
+  ],
+  "youtube": null,
+  "image": "https://images.squarespace-cdn.com/content/v1/5a8a39baccc5c51cc17b77fa/1644632728040-NQADBB2E40C2I29ZZ0VS/image-asset.jpeg",
+  "excerpt": "",
+  "body_text": "Thrilled to give an invited talk today at the Co-design Center for Quantum Advantage (C2QA), one of five @DOE #Quantum Information Science Research Centers established in support of the National Quantum Initiative, on #QiskitMetal | quantum device design, out of @BrookhavenLab\nThe success of engineering complex quantum phenomena and large-scale quantum processors is rooted in our ability to rapidly and reliably design and analyze the underlying quantum devices. We introduce two new methods to this end and an open-source software platform for automated superconducting qubit layout, design, and analysis.",
+  "body_html": "<p class=\"\" style=\"white-space:pre-wrap;\">Thrilled to give an invited talk today at the Co-design Center for Quantum Advantage (C2QA), one of five @DOE #Quantum Information Science Research Centers established in support of the National Quantum Initiative, on #QiskitMetal | quantum device design, out of @BrookhavenLab</p><p class=\"\" style=\"white-space:pre-wrap;\">The success of engineering complex quantum phenomena and large-scale quantum processors is rooted in our ability to rapidly and reliably design and analyze the underlying quantum devices. We introduce two new methods to this end and an open-source software platform for automated superconducting qubit layout, design, and analysis.</p>"
+ }
+]

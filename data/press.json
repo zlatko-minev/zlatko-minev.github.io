@@ -1,0 +1,358 @@
+{
+ "recognition": [
+  {
+   "id": "mit-tr35",
+   "title": "MIT Technology Review — Innovators Under 35 (Visionaries)",
+   "year": 2020,
+   "body": "MIT Technology Review",
+   "url": "https://www.technologyreview.com/innovator/zlatko-minev/",
+   "image": "assets/img/mit-tr35.webp",
+   "story": "/writing/mit-tr35/"
+  },
+  {
+   "id": "discover-top50",
+   "title": "Discover magazine — top Math & Physical Sciences discovery of 2019 (Top 50 Scientific Discoveries of the Year)",
+   "year": 2019,
+   "body": "Discover magazine",
+   "url": "https://www.discovermagazine.com/the-sciences/scientists-catch-a-quantum-jump-as-it-happens",
+   "image": "assets/img/discover-2020.webp",
+   "paper": "1803.00545"
+  },
+  {
+   "id": "atanasoff",
+   "title": "John Atanasoff Award of the President of Bulgaria",
+   "year": 2020,
+   "body": "President of the Republic of Bulgaria",
+   "url": null,
+   "video": "DOv9hiyjNHE"
+  },
+  {
+   "id": "yale-news",
+   "title": "Yale News — Top stories of 2019 (quantum jumps)",
+   "year": 2019,
+   "body": "Yale News",
+   "url": "https://news.yale.edu/2019/12/19/top-yalenews-stories-2019",
+   "paper": "1803.00545",
+   "hidden": true
+  },
+  {
+   "id": "yale-jefferson",
+   "title": "Yale-Jefferson Public Service Award (Open Labs)",
+   "year": 2016,
+   "body": "Yale / Jefferson Awards",
+   "url": "https://news.yale.edu/2016/10/24/four-be-honored-yale-jefferson-public-service-awards-ceremony",
+   "image": "assets/img/jefferson-award.webp"
+  },
+  {
+   "id": "nobel-collection",
+   "title": "Two papers in Nature Portfolio's “Nobel Prize in Physics 2025” collection (Nature, 2019; npj Quantum Information, 2021)",
+   "year": 2025,
+   "body": "Nature Portfolio collection",
+   "url": "https://www.nature.com/collections/fhdggghifa",
+   "paper": "2010.00620",
+   "hidden": false
+  },
+  {
+   "id": "qiskit-seminar",
+   "title": "Founded and hosted the IBM Qiskit Quantum Seminar (from 2019)",
+   "year": 2019,
+   "body": "IBM Quantum / YouTube",
+   "url": "https://www.youtube.com/playlist?list=PLOFEBzvs-Vvr0uEoGFo08n4-WrM_8fft2",
+   "image": "assets/img/qiskit-seminar.webp",
+   "hidden": true
+  },
+  {
+   "id": "ibm-otaa",
+   "title": "IBM Outstanding Technical Achievement Award (2021 and 2023), for practical, scalable error-mitigation tools",
+   "year": 2023,
+   "body": "IBM Research"
+  },
+  {
+   "id": "cifar",
+   "title": "CIFAR Associate Fellow, Quantum Information Science program (2023–March 2026)",
+   "year": 2023,
+   "body": "CIFAR",
+   "url": "https://cifar.ca/research-programs/quantum-information-science/"
+  },
+  {
+   "id": "caas",
+   "title": "Connecticut Academy of Arts and Sciences, inaugural fellow (2015–2016)",
+   "year": 2015,
+   "body": "Connecticut Academy of Arts and Sciences"
+  }
+ ],
+ "coverage": [
+  {
+   "story": "Quantum jumps (Nature, 2019)",
+   "paper": "1803.00545",
+   "items": [
+    {
+     "outlet": "Quanta Magazine",
+     "title": "Quantum Leaps, Long Assumed to Be Instantaneous, Take Time (Philip Ball, 2019-06-05)",
+     "url": "https://www.quantamagazine.org/quantum-leaps-long-assumed-to-be-instantaneous-take-time-20190605/"
+    },
+    {
+     "outlet": "Discover",
+     "title": "Scientists catch a quantum jump as it happens (Stephen Ornes, 2019-12-24)",
+     "url": "https://www.discovermagazine.com/scientists-catch-a-quantum-jump-as-it-happens-41079"
+    },
+    {
+     "outlet": "NPR Science Friday",
+     "title": "A new view on quantum weirdness",
+     "url": "https://soundcloud.com/scifri/a-new-view-on-quantum-weirdness"
+    },
+    {
+     "outlet": "Yale Quantum Institute annual report",
+     "title": "Baskerville's Hound meets Schrödinger's Cat",
+     "url": "/writing/yqi-annual-report/"
+    }
+   ]
+  },
+  {
+   "story": "Qiskit Metal",
+   "items": [
+    {
+     "outlet": "Forbes",
+     "title": "You don't have to be a rocket or quantum scientist to design a quantum computer chip using IBM's new tool called Qiskit Metal",
+     "url": "https://www.forbes.com/sites/moorinsights/2021/04/26/you-dont-have-to-be-a-rocket-or-quantum-scientist-to-design-a-quantum-computer-chip-using-ibms-new-tool-called-qiskit-metal/"
+    }
+   ]
+  },
+  {
+   "story": "Profiles",
+   "items": [
+    {
+     "outlet": "Yale — For Humanity",
+     "title": "For Scientific Discovery: Zlatko Minev '18 PhD (2023-10-09; archived earlier version of the 2026 profile)",
+     "url": "/writing/for-scientific-discovery-zlatko-minev-18-phd-yale-for-humanity/"
+    },
+    {
+     "outlet": "IBM Research",
+     "title": "Meet the Innovators of the Future",
+     "url": "/writing/mit35award-ibm/"
+    },
+    {
+     "outlet": "Yale Physics newsletter",
+     "title": "Open Labs feature",
+     "url": "/writing/in-the-new-physics-dept-yale-open-labs/"
+    },
+    {
+     "outlet": "Yale Alumni Association",
+     "title": "Increasing education access in underserved youth communities (panel)",
+     "url": "https://alumni.yale.edu/events/increasing-education-access-underserved-youth-communities-conversation-yale-jefferson"
+    }
+   ]
+  }
+ ],
+ "media": [
+  {
+   "kind": "interview",
+   "title": "Can we save Schrödinger's cat? Quantum jumps (Event Horizon)",
+   "year": 2019,
+   "youtube": "fnbS4wxRhOk"
+  },
+  {
+   "kind": "podcast",
+   "title": "Quantum computing introduction — Software Engineering Daily",
+   "year": 2018,
+   "youtube": "z1X5ilXnpTA"
+  },
+  {
+   "kind": "podcast",
+   "title": "Meet the meQuanics E33 — APS March Meeting field report",
+   "year": 2017,
+   "url": "https://soundcloud.com/mequanics/meet-the-mequanics-e33-field-report-apsmarch-zlatko-minev-yale",
+   "hidden": true
+  },
+  {
+   "kind": "audio",
+   "title": "Science Friday — A new view on quantum weirdness",
+   "year": 2019,
+   "url": "https://www.sciencefriday.com/segments/quantum-jumps/"
+  },
+  {
+   "kind": "webinar",
+   "title": "Careers, Life, and Yale Thursday Show: Quantum computing & its mysteries",
+   "year": 2021,
+   "youtube": "mdIJVyTxO5I"
+  },
+  {
+   "kind": "speech",
+   "title": "Yale-Jefferson Award 2016 — acceptance speech",
+   "year": 2016,
+   "youtube": "w4b1O5Vl0fo",
+   "hidden": true
+  },
+  {
+   "kind": "interview",
+   "title": "John Atanasoff Award 2020 — interview",
+   "year": 2020,
+   "youtube": "DOv9hiyjNHE"
+  },
+  {
+   "kind": "outreach",
+   "title": "Open Labs — science outreach",
+   "year": null,
+   "youtube": "xvw_7r3KTwg",
+   "hidden": true
+  },
+  {
+   "kind": "hosting",
+   "title": "APS Physical Review Journal Club — Surpassing the resistance quantum with a geometric superinductor",
+   "year": null,
+   "youtube": "C3RQx2uEHcQ"
+  },
+  {
+   "kind": "explainer",
+   "title": "What happens during a quantum jump? (PBS Space Time, on our experiment)",
+   "year": 2021,
+   "youtube": "j5HyMNNSGqQ"
+  },
+  {
+   "kind": "talk",
+   "title": "Building an artificial atom (MeanTime)",
+   "year": 2013,
+   "youtube": "dQqH07c6J6w"
+  },
+  {
+   "kind": "talk",
+   "title": "How to build an artificial world (Yale Pathways Science Café)",
+   "year": 2015,
+   "youtube": "AJhp_sxFiLY"
+  },
+  {
+   "kind": "panel",
+   "title": "Qiskit Global Summer School 2024, closing panel",
+   "year": 2024,
+   "youtube": "wGzDwVYuiAM"
+  }
+ ],
+ "recent": [
+  {
+   "outlet": "The Quantum Insider",
+   "title": "Google researchers propose using error records to improve quantum results after computation (2026-10-13)",
+   "url": "https://thequantuminsider.com/2026/10/13/google-researchers-propose-using-error-records-to-improve-quantum-results-after-computation/",
+   "paper": "2610.12400"
+  },
+  {
+   "outlet": "Quantum Zeitgeist",
+   "title": "Error mitigation cuts sampling overhead for quantum circuits (2026-10-15)",
+   "url": "https://quantumzeitgeist.com/google-quantum-error-mitigation-cuts-sampling/",
+   "paper": "2610.12400"
+  },
+  {
+   "outlet": "Yale Graduate School — For Humanity",
+   "title": "For Quantum Breakthroughs: Zlatko Minev '18 PhD (2026-02-20)",
+   "url": "https://forhumanity.yale.edu/news/quantum-breakthroughs-zlatko-minev-18-phd",
+   "paper": "1803.00545"
+  },
+  {
+   "outlet": "LinkedIn",
+   "title": "The energy-participation paper joins Nature's 2025 Nobel Prize in Physics collection",
+   "url": "https://www.linkedin.com/posts/zlatko-minev_quantumcomputing-superconductingqubits-activity-7383916828378570752-NjyW",
+   "paper": "2010.00620",
+   "hidden": true
+  }
+ ],
+ "coverage_list": [
+  {
+   "outlet": "Scientific American",
+   "title": "New Views of Quantum Jumps Challenge Core Tenets of Physics",
+   "by": "Eleni Petrakou",
+   "date": "December 2020",
+   "url": "https://www.scientificamerican.com/article/new-views-of-quantum-jumps-challenge-core-tenets-of-physics/",
+   "featured": true
+  },
+  {
+   "outlet": "Quanta Magazine",
+   "title": "Quantum Leaps, Long Assumed to Be Instantaneous, Take Time",
+   "by": "Philip Ball",
+   "date": "June 2019",
+   "url": "https://www.quantamagazine.org/quantum-leaps-long-assumed-to-be-instantaneous-take-time-20190605/",
+   "featured": true
+  },
+  {
+   "outlet": "Wired",
+   "title": "Physicists See a Quantum Leap, Halt It, and Reverse It",
+   "by": "Philip Ball",
+   "date": "June 2019",
+   "url": "https://www.wired.com/story/physicists-see-a-quantum-leap-halt-it-and-reverse-it/",
+   "featured": true
+  },
+  {
+   "outlet": "The Guardian",
+   "title": "Schrödinger's cat could be saved, say scientists",
+   "by": "Nicola Davis",
+   "date": "June 2019",
+   "url": "https://www.theguardian.com/science/2019/jun/03/feline-fine-fate-of-schrodingers-cat-can-be-reversed-study",
+   "featured": true
+  },
+  {
+   "outlet": "Discover",
+   "title": "Scientists Catch a Quantum Jump as It Happens",
+   "by": "Stephen Ornes",
+   "date": "December 2019",
+   "url": "https://www.discovermagazine.com/scientists-catch-a-quantum-jump-as-it-happens-41079",
+   "featured": true
+  },
+  {
+   "outlet": "Yale Graduate School",
+   "title": "For Quantum Breakthroughs: Zlatko Minev '18 PhD",
+   "date": "February 2026",
+   "url": "https://forhumanity.yale.edu/news/quantum-breakthroughs-zlatko-minev-18-phd",
+   "featured": true
+  },
+  {
+   "outlet": "The Quantum Insider",
+   "title": "Google Researchers Propose Using Error Records to Improve Quantum Results After Computation",
+   "by": "Matt Swayne",
+   "date": "October 2026",
+   "url": "https://thequantuminsider.com/2026/10/13/google-researchers-propose-using-error-records-to-improve-quantum-results-after-computation/",
+   "featured": true
+  },
+  {
+   "outlet": "Physics World",
+   "title": "To catch a quantum jump",
+   "by": "Isabelle Dumé",
+   "date": "June 2019",
+   "url": "https://physicsworld.com/a/to-catch-a-quantum-jump/"
+  },
+  {
+   "outlet": "New Scientist",
+   "title": "Quantum leaps are real – and now we can control them",
+   "date": "June 2019",
+   "url": "https://www.newscientist.com/article/2205089-quantum-leaps-are-real-and-now-we-can-control-them/"
+  },
+  {
+   "outlet": "Yale News",
+   "title": "Top YaleNews stories of 2019",
+   "date": "December 2019",
+   "url": "https://news.yale.edu/2019/12/19/top-yalenews-stories-2019",
+   "featured": false
+  },
+  {
+   "outlet": "Forbes (Moor Insights & Strategy)",
+   "title": "You Don't Have To Be A Rocket (Or Quantum) Scientist To Design A Quantum Computer Chip Using IBM's New Tool Called Qiskit Metal",
+   "date": "2021-04-26",
+   "url": "https://www.forbes.com/sites/moorinsights/2021/04/26/you-dont-have-to-be-a-rocket-or-quantum-scientist-to-design-a-quantum-computer-chip-using-ibms-new-tool-called-qiskit-metal/",
+   "featured": false,
+   "by": "Paul Smith-Goodson"
+  },
+  {
+   "outlet": "Quantum Zeitgeist",
+   "title": "Error Mitigation Cuts Sampling Overhead for Quantum Circuits",
+   "date": "October 2026",
+   "url": "https://quantumzeitgeist.com/google-quantum-error-mitigation-cuts-sampling/"
+  },
+  {
+   "outlet": "Yale Quantum Institute annual report",
+   "title": "Baskerville's Hound meets Schrödinger's Cat",
+   "url": "/writing/yqi-annual-report/"
+  },
+  {
+   "outlet": "Yale Alumni Association",
+   "title": "Increasing Education Access in Underserved Youth Communities: A Conversation with Yale-Jefferson Service Award Recipients",
+   "url": "https://alumni.yale.edu/events/increasing-education-access-underserved-youth-communities-conversation-yale-jefferson"
+  }
+ ]
+}

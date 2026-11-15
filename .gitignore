@@ -1,0 +1,18 @@
+_site/
+__pycache__/
+.DS_Store
+data/raw/home.html
+data/raw/arxiv_abstracts.xml
+data/raw/arxiv_merged.json
+
+# Local editor state and private planning
+.claude/
+.codex/
+.agents/
+agent/
+CLAUDE.md
+AGENTS.md
+ROADMAP.md
+_private*/
+*.bundle
+*.patch

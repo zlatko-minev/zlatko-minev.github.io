@@ -1,0 +1,276 @@
+{
+ "patents": [
+  {
+   "title": "Techniques for coupling planar qubits to non-planar resonators and related systems and methods",
+   "inventors": "Z. Minev, K. Serniak, I. Pop, Y. Chu, T. Brecht, L. Frunzio, M. Devoret, R. J. Schoelkopf",
+   "number": "US 10,468,740 B2 (granted)",
+   "year": 2019,
+   "url": "https://patents.google.com/patent/US10468740B2/en",
+   "selected": true
+  },
+  {
+   "title": "Quantum device facilitating a cross-resonance operation in a dispersive regime",
+   "inventors": "J. M. Gambetta, J. M. Chow, E. Magesan, A. Kandala, Z. K. Minev",
+   "number": "US 11,244,241 B1 (granted)",
+   "year": 2022,
+   "url": "https://patents.google.com/patent/US11244241B1/en"
+  },
+  {
+   "title": "Translation of a quantum design across multiple applications",
+   "inventors": "Z. K. Minev, T. G. McConkey, J. M. Gambetta",
+   "number": "US 12,093,782 B2 (granted)",
+   "year": 2024,
+   "url": "https://patents.google.com/patent/US12093782B2/en",
+   "selected": true
+  },
+  {
+   "title": "Pauli-Lindbladian based noise modeling and mitigation",
+   "inventors": "E. van den Berg, Z. K. Minev, A. Kandala, K. Temme",
+   "number": "US 12,118,435 B2 (granted)",
+   "year": 2024,
+   "url": "https://patents.google.com/patent/US12118435B2/en",
+   "selected": true
+  },
+  {
+   "title": "Feed-forward design of three-dimensional quantum chips",
+   "inventors": "N. A. Lanzillo, M. Facchini, Z. K. Minev, T. G. McConkey, P. A. Shah",
+   "number": "US 12,293,140 B2 (granted)",
+   "year": 2025,
+   "url": "https://patents.google.com/patent/US12293140B2/en"
+  },
+  {
+   "title": "Performing quantum error mitigation at runtime using trained machine learning model",
+   "inventors": "I. Sitdikov, H. Liao, A. Seif, Z. K. Minev, D. Wang",
+   "number": "US 12,481,908 B2 (granted)",
+   "year": 2025,
+   "url": "https://patents.google.com/patent/US12481908B2/en",
+   "selected": true
+  },
+  {
+   "title": "Readout-error mitigation for quantum expectation",
+   "inventors": "E. van den Berg, Z. K. Minev, K. Temme",
+   "number": "US 12,499,379 B2 (granted)",
+   "year": 2025,
+   "url": "https://patents.google.com/patent/US12499379B2/en",
+   "selected": true
+  },
+  {
+   "title": "Noise mitigation in dynamic quantum circuits by inserting context-dependent dynamical decoupling sequences",
+   "inventors": "D. Wang, P. Rall, E. H. Chen, A. Seif, M. Takita, T. Alexander, E. Bäumer, S. Majumder, Z. K. Minev, D. Ristè, V. Tripathi",
+   "number": "US 2025/0232204 A1 (application)",
+   "year": 2025,
+   "url": "https://patents.google.com/patent/US20250232204A1/en"
+  },
+  {
+   "title": "Sparse noise tomography-based qubit mapping",
+   "inventors": "R. Majumdar, B. Pokharel, Z. K. Minev, M. Amico",
+   "number": "US 2025/0165836 A1 (application)",
+   "year": 2025,
+   "url": "https://patents.google.com/patent/US20250165836A1/en"
+  },
+  {
+   "title": "Reinforced learning for quantum design",
+   "inventors": "J. Cruz Benito, Z. K. Minev, F. J. Martín Fernández, I. Faro Sertage",
+   "number": "US 2025/0005368 A1 (application)",
+   "year": 2025,
+   "url": "https://patents.google.com/patent/US20250005368A1/en"
+  },
+  {
+   "title": "Validation and optimization of quantum error mitigation workflows",
+   "inventors": "D. Wang, H. Zhang, S. Majumder, P. Rivero Ramírez, A. Eddins, D. Vandeth, M. Tran, K. Sharma, Z. K. Minev, N. Earnest-Noble",
+   "number": "US 2026/0050815 A1 (application)",
+   "year": 2026,
+   "url": "https://patents.google.com/patent/US20260050815A1/en"
+  },
+  {
+   "title": "Quantum error mitigation for probability distributions",
+   "inventors": "R. Majumdar, P. Rivero Ramírez, S. Majumder, Z. K. Minev",
+   "number": "US 2026/0099753 A1 (application)",
+   "year": 2026,
+   "url": "https://patents.google.com/patent/US20260099753A1/en"
+  }
+ ],
+ "paper_videos": {
+  "1803.00545": [
+   {
+    "youtube": "JGNL91MhC5A",
+    "title": "Joint Quantum Institute (JQI), 2019"
+   },
+   {
+    "youtube": "YZkZAScrSQM",
+    "title": "YuQC seminar"
+   }
+  ],
+  "2201.09866": [
+   {
+    "youtube": "zxxlAbGfVtg",
+    "title": "KITP, Noisy Intermediate-Scale Quantum Systems, 2022"
+   },
+   {
+    "youtube": "oPSBivh2rxQ",
+    "title": "Seminar, 2022"
+   }
+  ],
+  "2307.07552": [
+   {
+    "youtube": "1ufiNSEGVGg",
+    "title": "Quantum Simulation Conference 2023 (invited)"
+   }
+  ],
+  "2010.00620": [
+   {
+    "youtube": "jjdYHZ0qxcY",
+    "title": "Qiskit Seminar: Quantum hardware design — energy, circuits, and Metal"
+   },
+   {
+    "youtube": "ggfQa6jBV3Y",
+    "title": "Superconducting qubits: design, analysis, energy & Qiskit Metal"
+   }
+  ]
+ },
+ "paper_figures": {
+  "2610.12400": {
+   "src": "assets/img/research/vec-fig1-final.webp",
+   "caption": "Figure 1. An error-corrected circuit runs unmodified and stores its syndrome record (a). After the run, the record alone is used to learn the noise (b), compare an offline decoder against the real-time one (c), and reweight shots so the residual logical bias cancels (d), at a sampling cost that grows far more slowly than probabilistic error cancellation (e)."
+  },
+  "2609.22442": {
+   "src": "assets/img/research/em-couplings-testbed.webp",
+   "caption": "The testbed: a 10 × 10 array of transmons on a silicon substrate inside a metallic package, used to compare four full-wave methods for qubit–package-mode couplings."
+  },
+  "2609.31934": {
+   "src": "assets/img/research/qem-info-dynamics-fig1.webp",
+   "caption": "Figure 1 of the preprint."
+  },
+  "2309.17368": {
+   "src": "assets/img/research/ml-qem-card.webp",
+   "caption": "Machine learning for practical quantum error mitigation (Nature Machine Intelligence)."
+  },
+  "2308.13065": {
+   "src": "assets/img/research/ghz-card.webp",
+   "caption": "Efficient long-range entanglement using dynamic circuits (PRX Quantum)."
+  },
+  "2406.12820": {
+   "src": "assets/img/research/fibonacci-card.webp",
+   "caption": "Fibonacci anyon braiding on a superconducting processor (Nature Communications)."
+  },
+  "2510.19550": {
+   "src": "assets/img/research/nmr-otoc-card.webp",
+   "caption": "Quantum computation of molecular geometry via many-body nuclear spin echoes."
+  },
+  "1803.00545": {
+   "src": "assets/img/research/jumps-mario.webp",
+   "caption": "Catching a quantum jump mid-flight: the atom is watched through its bright transition; a pause in the clicks gives advance warning of a jump from the ground state to the dark state."
+  },
+  "2010.00620": {
+   "src": "assets/img/research/epr-current-density-panel.webp",
+   "caption": "Current density in a transmon's pads and junction from an eigenmode simulation, the starting point of the energy-participation method."
+  },
+  "2201.09866": {
+   "src": "assets/img/research/pec-with-without.webp",
+   "caption": "Trotterized Ising-model dynamics on a superconducting processor, with and without probabilistic error cancellation, compared with the ideal result (slide from a 2022 KITP talk)."
+  }
+ },
+ "paper_posts": {
+  "2610.12400": [
+   {
+    "date": "2026-10-08",
+    "title": "Announcement: Measure Now, Mitigate Later",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7514190598296244224"
+   },
+   {
+    "date": "2026-10-09",
+    "title": "Reweight, don't discard",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7514398797758660609"
+   },
+   {
+    "date": "2026-10-10",
+    "title": "How much should a suspicious shot count?",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7514821584885424129"
+   },
+   {
+    "date": "2026-10-15",
+    "title": "The Quantum Insider write-up",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7516483797509492736"
+   },
+   {
+    "date": "2026-10-17",
+    "title": "Quantum Zeitgeist write-up",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7517359809785028609"
+   }
+  ],
+  "2609.31934": [
+   {
+    "date": "2026-09-30",
+    "title": "Announcement",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7511047497428070400"
+   },
+   {
+    "date": "2026-10-04",
+    "title": "Reactivity in one picture",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7512648011412410368"
+   },
+   {
+    "date": "2026-10-05",
+    "title": "A compact effective reactivity",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7512858651225870336"
+   },
+   {
+    "date": "2026-10-07",
+    "title": "Filter design",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7513584185341644800"
+   },
+   {
+    "date": "2026-10-12",
+    "title": "PEC as a sum of experiments",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7515395897925722114"
+   }
+  ],
+  "2609.22442": [
+   {
+    "date": "2026-09-26",
+    "title": "Announcement",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7509716371937599488"
+   },
+   {
+    "date": "2026-09-27",
+    "title": "Why a horizontal dipole couples to a vertical package mode",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7509960302109659136"
+   },
+   {
+    "date": "2026-10-01",
+    "title": "The in-plane field, seen directly",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7511409687460843520"
+   },
+   {
+    "date": "2026-10-02",
+    "title": "Four methods, close agreement",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7511772743919484928"
+   },
+   {
+    "date": "2026-10-03",
+    "title": "Why package modes are a hundred-qubit problem",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7512134383839961089"
+   },
+   {
+    "date": "2026-10-04",
+    "title": "One eigenmode solve, one hundred couplings",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7512497770063155200"
+   },
+   {
+    "date": "2026-10-06",
+    "title": "The avoided crossing and the splitting 2|g|",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7513221288937652224"
+   },
+   {
+    "date": "2026-10-08",
+    "title": "Energy participation as a coupling probe",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7513946381720678401"
+   },
+   {
+    "date": "2026-10-10",
+    "title": "A circuit hidden in Z(ω)",
+    "url": "https://www.linkedin.com/feed/update/urn:li:share:7514671343129411584"
+   }
+  ]
+ }
+}

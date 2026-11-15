@@ -1,0 +1,256 @@
+{
+ "intro": "I teach the physics of real quantum hardware: how a superconducting qubit is built, why it is noisy, and what we can do about it. These lectures come from summer schools and workshops since 2020, among them the Qiskit Global Summer Schools, each attended by thousands of students. All slides are free to read in the Notebook.",
+ "courses": [
+  {
+   "id": "superconducting-qubits-101",
+   "title": "Superconducting Qubits 101",
+   "level": "Beginner → intermediate",
+   "blurb": "Build a transmon from an LC circuit and a Josephson junction, then couple it to a resonator: circuit quantization, cQED, readout and calibration.",
+   "series": [
+    "Superconducting Qubits 101"
+   ],
+   "image": "assets/img/research/transmon-3d.webp",
+   "editions": [
+    {
+     "label": "Qiskit Global Summer School 2020 — lectures 16–21",
+     "videos": [
+      "eZJjQGu85Ps",
+      "SDiiFOham6Y",
+      "hGBAz63NIH8",
+      "dmYnfGo-8eM",
+      "jUPAeOoZpEU",
+      "_IpCwMvc0dA"
+     ],
+     "links": [
+      {
+       "label": "Lecture notes 16–18",
+       "url": "https://github.com/qiskit-community/intro-to-quantum-computing-and-quantum-hardware/blob/master/lectures/introqcqh-lecture-notes-6.pdf?raw=true"
+      },
+      {
+       "label": "Lecture notes 19–21",
+       "url": "https://github.com/qiskit-community/intro-to-quantum-computing-and-quantum-hardware/blob/master/lectures/introqcqh-lecture-notes-7.pdf?raw=true"
+      },
+      {
+       "label": "Lab notebooks",
+       "url": "https://github.com/qiskit-community/intro-to-quantum-computing-and-quantum-hardware/blob/master/labs/introqcqh-lab-7.zip?raw=true"
+      }
+     ],
+     "video_titles": {
+      "eZJjQGu85Ps": "16. Superconducting Qubits I: Quantizing a Harmonic Oscillator, Josephson Junctions - Part 1",
+      "SDiiFOham6Y": "17. Superconducting Qubits I: Quantizing a Harmonic Oscillator, Josephson Junctions - Part 2",
+      "hGBAz63NIH8": "18. Superconducting Qubits I: Quantizing a Harmonic Oscillator, Josephson Junctions - Part 3",
+      "dmYnfGo-8eM": "19. Superconducting Qubits II: Circuit Quantum Electrodynamics, Readout and Calibration Methods Pt 1",
+      "jUPAeOoZpEU": "20. Superconducting Qubits II: Circuit Quantum Electrodynamics, Readout and Calibration Methods Pt 2",
+      "_IpCwMvc0dA": "21. Superconducting Qubits II: Circuit Quantum Electrodynamics, Readout and Calibration Methods Pt 3"
+     }
+    }
+   ],
+   "start": {
+    "nb": "2025-your-first-superconducting-qubit-intro-to-cqed-part-i",
+    "text": "Start with “Your First Superconducting Qubit, Part I”, then Part II. You need undergraduate quantum mechanics and LC circuits."
+   },
+   "code": [
+    {
+     "label": "pyEPR",
+     "url": "https://github.com/zlatko-minev/pyEPR"
+    },
+    {
+     "label": "Quantum Metal",
+     "url": "https://github.com/qiskit-community/qiskit-metal"
+    }
+   ]
+  },
+  {
+   "id": "intro-to-quantum-noise",
+   "title": "Introduction to Quantum Noise",
+   "level": "Intermediate",
+   "blurb": "What noise does to a real quantum computer: coherent and incoherent errors, finite sampling, state-preparation and measurement errors, and how they compound with circuit depth.",
+   "series": [
+    "Intro to Quantum Noise (QGSS 2021)",
+    "Intro to Quantum Noise (QGSS 2022)",
+    "Intro to Quantum Noise (QGSS 2023)",
+    "Quantum Noise"
+   ],
+   "editions": [
+    {
+     "label": "Qiskit Global Summer School 2021 — lectures 3.1 and 3.2",
+     "videos": [
+      "kV0RsKXSqRg",
+      "9igrPgbU1ro"
+     ],
+     "links": [
+      {
+       "label": "Notes",
+       "url": "https://learn.qiskit.org/content/summer-school/2021/resources/lecture-notes/Lecture3-notes.pdf"
+      },
+      {
+       "label": "Slides",
+       "url": "https://learn.qiskit.org/content/summer-school/2021/resources/lecture-notes/Lecture3-slides.pdf"
+      }
+     ],
+     "video_titles": {
+      "kV0RsKXSqRg": "Lecture 3.1 - Noise in Quantum Computers - part 1",
+      "9igrPgbU1ro": "Lecture 3.2 - Noise in Quantum Computers - part 2"
+     }
+    }
+   ],
+   "start": {
+    "nb": "2023-intro-to-quantum-noise-main-lecture",
+    "text": "Start with the 2023 main lecture; the 2021 and 2022 editions cover the same ground. You need qubits, gates and density matrices."
+   }
+  },
+  {
+   "id": "quantum-error-mitigation",
+   "title": "Quantum Error Mitigation",
+   "level": "Advanced",
+   "blurb": "Getting accurate answers from noisy processors: probabilistic error cancellation, zero-noise extrapolation, twirling, and the cost of each, first taught at the 2023 Boulder School for Condensed Matter and Materials Physics, with applications to non-equilibrium quantum dynamics.",
+   "series": [
+    "Quantum Error Mitigation (Boulder Summer School 2023)",
+    "Intro to Noise Mitigation (Summer School 2024)"
+   ],
+   "editions": [
+    {
+     "label": "Boulder School for Condensed Matter and Materials Physics, 2023 — lectures I–III",
+     "videos": [
+      "A7glm-9_afg",
+      "TPxJW-NoPGE",
+      "xL89AZc2BRc"
+     ],
+     "links": [
+      {
+       "label": "School page",
+       "url": "https://boulderschool.yale.edu/2023/boulder-school-2023"
+      }
+     ],
+     "video_titles": {
+      "A7glm-9_afg": "Quantum Error Mitigation I at the the Boulder School for Condensed Matter and Materials Physics",
+      "TPxJW-NoPGE": "Quantum error mitigation II at the Boulder School for Condensed Matter and Materials Physics.",
+      "xL89AZc2BRc": "Quantum error-mitigation III at the Boulder School for Condensed Matter and Materials Physics"
+     }
+    }
+   ],
+   "start": {
+    "nb": "2024-introduction-to-noise-and-quantum-error-mitigation-lecture-1",
+    "text": "Start with the 2024 Lecture 1, then the 2023 Boulder lectures in order."
+   }
+  },
+  {
+   "id": "pauli-twirling",
+   "title": "A Primer on Pauli Twirling",
+   "level": "Intermediate",
+   "blurb": "Twirling averages a gate's noise into Pauli noise, a form that can be learned and canceled. A four-part tutorial, from the definition to its use in error mitigation.",
+   "series": [
+    "Primer on Pauli Twirling (tutorial)"
+   ],
+   "image": null,
+   "editions": []
+  },
+  {
+   "id": "quantum-hardware-design",
+   "title": "Quantum Hardware Design with Quantum Metal and EPR",
+   "level": "Intermediate → research",
+   "blurb": "Design, simulate and quantize a superconducting chip with open-source tools: layout in Quantum Metal, electromagnetic analysis, and the energy-participation ratio.",
+   "series": [],
+   "notebook_tags": [
+    "qiskit-metal",
+    "epr"
+   ],
+   "image": "assets/img/research/em-couplings-testbed.webp",
+   "editions": [
+    {
+     "label": "Quantum Metal tutorials and videos",
+     "videos": [
+      "jjdYHZ0qxcY",
+      "ggfQa6jBV3Y"
+     ],
+     "links": [
+      {
+       "label": "Tutorials (Jupyter)",
+       "url": "https://qiskit-community.github.io/qiskit-metal/tut/"
+      },
+      {
+       "label": "YouTube tutorial series (29+ videos)",
+       "url": "https://www.youtube.com/playlist?list=PLOFEBzvs-VvqHl5ZqVmhB_FcSqmLufsjb"
+      }
+     ],
+     "video_titles": {
+      "jjdYHZ0qxcY": "Quantum Hardware Design: Energy, Circuits, and Metal | Qiskit Seminar Series with Zlatko Minev",
+      "ggfQa6jBV3Y": "Superconducting Qubits: design, analysis, energy & Qiskit Metal"
+     }
+    }
+   ],
+   "code": [
+    {
+     "label": "pyEPR",
+     "url": "https://github.com/zlatko-minev/pyEPR"
+    },
+    {
+     "label": "Quantum Metal",
+     "url": "https://github.com/qiskit-community/qiskit-metal"
+    }
+   ]
+  },
+  {
+   "id": "quantum-measurement",
+   "title": "Quantum Measurement",
+   "level": "Intermediate",
+   "blurb": "What a measurement does to a quantum system, from projective measurement to continuous monitoring and quantum jumps.",
+   "series": [
+    "Quantum Measurements"
+   ],
+   "image": null,
+   "editions": [],
+   "extra_papers": [
+    "1803.00545",
+    "1902.10355"
+   ]
+  }
+ ],
+ "books": [],
+ "tutorials_tags": [
+  "cheat-sheet",
+  "tutorial"
+ ],
+ "levels": {
+  "Beginner": "undergraduate quantum mechanics and basic circuits",
+  "Intermediate": "a first quantum-computing course: qubits, gates, density matrices",
+  "Advanced": "noise channels and the Pauli basis; research level"
+ },
+ "long_form": [
+  {
+   "paper": "1902.10355",
+   "text": "Ph.D. thesis (Yale, 2018): a long-form introduction to quantum trajectories, continuous measurement and the quantum-jump experiment."
+  }
+ ],
+ "paths": [
+  {
+   "name": "Superconducting qubits, from scratch",
+   "ids": [
+    "2025-your-first-superconducting-qubit-intro-to-cqed-part-i",
+    "2025-your-first-superconducting-qubit-intro-to-cqed-part-ii",
+    "2023-intro-to-quantum-measurements-part-i-ideal-measurements",
+    "2020-to-catch-and-reverse-a-quantum-jump-mid-flight",
+    "2025-overview-of-quantum-hardware-design-energy-circuits"
+   ]
+  },
+  {
+   "name": "Noise, and what to do about it",
+   "ids": [
+    "2023-intro-to-quantum-noise-main-lecture",
+    "t27-simple-noise-models-and-gate-fidelity",
+    "2022-primer-on-pauli-twirling-part-i",
+    "2024-introduction-to-noise-and-quantum-error-mitigation-lecture-1",
+    "2023-quantum-error-mitigation-lecture-2"
+   ]
+  },
+  {
+   "name": "The pencil-and-paper toolbox",
+   "ids": [
+    "t11-7-pictorial-digital-quantum-circuits",
+    "t11-9-concentration-inequalities-and-tail-bounds",
+    "t21-estimating-observables-from-sampled-bit-strings",
+    "t22-bounding-a-sum-of-operators-a-la-watrous"
+   ]
+  }
+ ]
+}
